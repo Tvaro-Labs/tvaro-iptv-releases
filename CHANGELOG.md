@@ -1,5 +1,32 @@
 # Tvaro IPTV changelog
 
+## 0.1.5 — 2026-10-30
+
+### New
+
+- A richer home screen: Top 10, Because you watched, Live sports, News channels, Best of the year and rows for your biggest categories
+- Play and More info buttons on the home screen on desktop
+- A redesigned Accounts screen that shows expiry, connections and the last update at a glance
+- Midnight is the new default theme, with a matching app icon
+
+### Improved
+
+- Type straight into text fields on desktop, with a normal cursor, selection and copy and paste
+- The home screen mixes movies and series instead of showing mostly series
+- Artwork loads faster and uses less memory on desktop
+- Names that mix Arabic and English stay readable when they're shortened
+- Arabic genres are separated with the Arabic comma
+- Icons look the same everywhere in the app
+- Dates follow the app's language
+- Tvaro checks for updates every hour and when you come back to it
+- Thin, dark scrollbars
+
+### Fixed
+
+- The mouse wheel scrolls what's under the cursor on Home and in Settings instead of moving the side menu
+- Adding an account whose server port doesn't answer now connects without the port
+- The What's new title is no longer cut off
+
 ## 0.1.4 — 2026-10-30
 
 ### New
