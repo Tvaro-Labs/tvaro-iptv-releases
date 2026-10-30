@@ -1,5 +1,32 @@
 # Tvaro IPTV changelog
 
+## 0.1.4 — 2026-10-30
+
+### New
+
+- Mini player: keep watching in a corner window while you browse
+- Multiview on desktop: watch up to four live channels at once and pick which one you hear
+- Notifications: a bell in the top bar shows news and updates from Tvaro
+- Account details: see your subscription status, expiry and connections in Settings › Accounts
+
+### Improved
+
+- Menus open over a soft blurred background on desktop
+- Keyboard shortcuts on desktop now show the keys you actually press
+- Escape closes menus and leaves full screen, and never closes the app
+- Tab moves through the app without jumping to the window buttons
+- The mouse wheel scrolls category lists without switching category
+- Full screen from a maximized window now covers the whole screen
+- Layout fits small windows without overlapping
+- "Show channel" is now "Unhide channel"
+- Available for Mac again
+
+### Fixed
+
+- Double-clicking a channel no longer opens it and goes full screen at the same time
+- Dragging from one card to another no longer opens the second card
+- Watch in multiview from a channel's options now works
+
 ## 0.1.3 — 2026-10-30
 
 ### New
