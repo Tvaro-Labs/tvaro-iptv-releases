@@ -39,7 +39,7 @@ Get the installer for your system from the [latest release](https://github.com/t
 | LG TV (webOS)         | —                           | Coming soon                                                                        |
 | Android / Fire OS     | —                           | Coming soon                                                                        |
 
-The `.sig` files and `latest.json` in each release are used by the built-in updater. You don't need to download them.
+The `latest.json` file in each release is used by the built-in updater. You don't need to download it.
 
 ### System requirements
 
@@ -52,8 +52,8 @@ The `.sig` files and `latest.json` in each release are used by the built-in upda
 Builds are not code-signed yet, so your system may warn you the first time.
 
 - **Windows:** run the installer. If SmartScreen appears, select **More info**, then **Run anyway**.
-- **macOS:** drag **Tvaro** into **Applications**, then right-click it and choose **Open**. If macOS says the app is damaged, run `xattr -dr com.apple.quarantine /Applications/Tvaro.app`.
-- **Linux:** `sudo apt install ./Tvaro_<version>_amd64.deb`, `sudo dnf install ./Tvaro-<version>-1.x86_64.rpm`, or make the AppImage executable and run it.
+- **macOS:** drag **Tvaro IPTV** into **Applications**, then right-click it and choose **Open**. If macOS says the app is damaged, run `xattr -dr com.apple.quarantine "/Applications/Tvaro IPTV.app"`.
+- **Linux:** `sudo apt install ./Tvaro.IPTV_<version>_amd64.deb`, `sudo dnf install ./Tvaro.IPTV-<version>-1.x86_64.rpm`, or make the AppImage executable and run it.
 
 The desktop app updates itself automatically.
 
