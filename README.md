@@ -159,11 +159,38 @@ You can check for updates or turn automatic updates off in **Settings › About*
   </tr>
 </table>
 
-Also included:
+### More features
 
-- **Keyboard and mouse:** remote-style navigation with the arrow keys, plus mouse and scroll wheel support. F11 toggles fullscreen and media keys control playback.
-- **Search:** one search across channels, movies and series.
-- **Multiple accounts:** add several sources and switch between them.
+**Watching**
+
+- **Catch-up and timeshift:** pause and rewind live TV on channels with catch-up, and play past programmes from the guide.
+- **Reminders:** get a prompt before an upcoming programme starts, with a button to watch it.
+- **Up Next and Skip intro:** episodes play on automatically, and a marked intro can be skipped on every episode of a series.
+- **Sleep timer:** stop playback after 15 to 120 minutes, or when the current live programme ends.
+
+**Finding things**
+
+- **Search:** one search across channels, movies and series, plus quick search inside each section. Matching ignores case, accents and Arabic letter variants.
+- **Watch history:** everything you watched, grouped by day, with Continue Watching on Home.
+- **Channel management:** favourites, up to 12 custom groups, hidden channels and sorting by number or name.
+
+**Your library**
+
+- **Multiple accounts:** add several Xtream Codes or M3U sources and switch between them. Up to 8 guide links per playlist are merged into one guide.
+- **Automatic refresh:** playlists and guides update on a schedule you choose, never during playback.
+- **Secure by default:** saved logins and playlist links are encrypted on your device.
+
+**On the desktop**
+
+- **Keyboard and mouse:** arrow-key navigation, mouse and scroll wheel support, F11 for fullscreen and media keys for playback.
+- **Automatic updates:** the app checks for new versions and installs them in one step. Every update is signed and verified.
+- **Light on resources:** playback buffers are capped, and the app pauses and frees memory while minimized on Windows.
+
+**Reliability**
+
+- **Automatic reconnects:** dropped live streams reconnect on their own.
+- **Offline handling:** a clear offline screen with automatic retries.
+- **Helpful errors:** expired or disabled subscriptions and refused logins are explained, with options to retry or edit the account.
 
 Screenshots show the built-in demo library. The player screenshot shows _Sintel_ © Blender Foundation, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
