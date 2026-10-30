@@ -26,7 +26,7 @@ Tvaro IPTV Player is a media player for IPTV sources you are authorised to acces
 
 ## Download
 
-Get the installer for your system from the [latest release](https://github.com/tvaro-lab/tvaro-iptv-releases/releases/latest). File names include the version number.
+Get the installer for your system from the [latest release](https://github.com/tvaro-lab/tvaro-iptv-releases/releases/latest). File names include the version number. See the [changelog](CHANGELOG.md) for what changed in each version.
 
 | Platform              | Package                     | Link                                                                               |
 | --------------------- | --------------------------- | ---------------------------------------------------------------------------------- |
