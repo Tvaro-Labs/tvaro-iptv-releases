@@ -99,9 +99,9 @@ You can check for updates or turn automatic updates off in **Settings › About*
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img alt="TV guide in the Preview layout" src=".github/assets/guide.png" width="100%"><br>
-      <b>TV guide</b><br>
-      Three layouts: Preview with a live mini player, Full grid and Split. Catch-up on supported channels, reminders for upcoming programmes, and search.
+      <img alt="Welcome screen" src=".github/assets/welcome.png" width="100%"><br>
+      <b>Easy start</b><br>
+      Add an Xtream Codes login or an M3U playlist with an optional XMLTV guide step by step, or explore the built-in demo first.
     </td>
     <td width="50%" valign="top">
       <img alt="Live TV channel grid" src=".github/assets/live-tv.png" width="100%"><br>
@@ -111,50 +111,50 @@ You can check for updates or turn automatic updates off in **Settings › About*
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <img alt="TV guide in the Preview layout" src=".github/assets/guide.png" width="100%"><br>
+      <b>TV guide</b><br>
+      Three layouts: Preview with a live mini player, Full grid and Split. Catch-up on supported channels, reminders for upcoming programmes, and search.
+    </td>
+    <td width="50%" valign="top">
       <img alt="Series details with seasons and episodes" src=".github/assets/series.png" width="100%"><br>
       <b>Movies and series</b><br>
       Details pages with trailers, resume where you left off, Continue Watching, seasons and episodes, Up Next and Skip intro.
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <img alt="Player with the Options sheet open" src=".github/assets/player.png" width="100%"><br>
       <b>Player</b><br>
       Audio and subtitle tracks, external subtitles with adjustable delay, playback speed, picture size, a sleep timer and four player styles.
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <img alt="Who's watching profile picker" src=".github/assets/profiles.png" width="100%"><br>
       <b>Profiles</b><br>
       Up to five profiles per account, each with its own favourites, watch history, language and track preferences, and an optional PIN.
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <img alt="Parental controls settings" src=".github/assets/parental.png" width="100%"><br>
       <b>Parental controls</b><br>
       A 4-digit PIN that locks adult content and chosen categories, hidden from Home, the guide and search until unlocked.
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <img alt="Theme and background pattern picker" src=".github/assets/themes.png" width="100%"><br>
       <b>Themes</b><br>
       Seven themes and optional background patterns, chosen per profile.
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <img alt="Player settings" src=".github/assets/settings.png" width="100%"><br>
       <b>Settings</b><br>
       Preferred audio and subtitle languages, subtitle appearance, guide layout, playlist and guide refresh schedules, watch history and storage.
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <img alt="Home screen in Arabic with a right-to-left layout" src=".github/assets/arabic.png" width="100%"><br>
       <b>English and Arabic</b><br>
       A full right-to-left layout in Arabic, with search that understands Arabic letter variants.
-    </td>
-    <td width="50%" valign="top">
-      <img alt="Welcome screen" src=".github/assets/welcome.png" width="100%"><br>
-      <b>Easy start</b><br>
-      Add an Xtream Codes login or an M3U playlist with an optional XMLTV guide step by step, or explore the built-in demo first.
     </td>
   </tr>
 </table>
