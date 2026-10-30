@@ -19,7 +19,6 @@
 - Full screen from a maximized window now covers the whole screen
 - Layout fits small windows without overlapping
 - "Show channel" is now "Unhide channel"
-- Available for Mac again
 
 ### Fixed
 
