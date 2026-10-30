@@ -1,11 +1,11 @@
 name: Bug report
-description: Something in Tvaro doesn't work as expected.
+description: Something in Tvaro IPTV doesn't work as expected.
 labels: [bug]
 body:
     - type: markdown
       attributes:
           value: |
-              Tvaro doesn't provide any channels or content, so we can't help with provider accounts, subscriptions or channel availability. Please don't post server addresses, usernames, passwords or playlist links.
+              Tvaro IPTV doesn't provide any channels or content, so we can't help with provider accounts, subscriptions or channel availability. Please don't post server addresses, usernames, passwords or playlist links.
     - type: dropdown
       id: platform
       attributes:

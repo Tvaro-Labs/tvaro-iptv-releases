@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Bring your own Xtream or M3U subscription — Tvaro organises live TV, movies, series and the guide.
+  Bring your own Xtream or M3U subscription — Tvaro IPTV organises live TV, movies, series and the guide.
 </p>
 
 <p align="center">
@@ -16,13 +16,13 @@
 </p>
 
 <p align="center">
-  <img alt="Tvaro home screen" src=".github/assets/hero.png" width="100%">
+  <img alt="Tvaro IPTV home screen" src=".github/assets/hero.png" width="100%">
 </p>
 
-Tvaro IPTV Player is a media player for IPTV sources you are authorised to access. It is designed for the big screen and a remote first, and works just as well with a keyboard and mouse on the desktop.
+Tvaro IPTV is the IPTV player from Tvaro, a media player for IPTV sources you are authorised to access. It is designed for the big screen and a remote first, and works just as well with a keyboard and mouse on the desktop.
 
 > [!IMPORTANT]
-> Tvaro does not provide any channels, playlists or content. You need your own subscription or playlist from a provider you are authorised to use.
+> Tvaro IPTV does not provide any channels, playlists or content. You need your own subscription or playlist from a provider you are authorised to use.
 
 ## Download
 
