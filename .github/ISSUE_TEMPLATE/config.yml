@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+    - name: Installation help
+      url: https://github.com/tvaro-lab/tvaro-iptv-releases#installation
+      about: Windows SmartScreen, macOS Gatekeeper and Linux install steps.

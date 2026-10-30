@@ -1,0 +1,21 @@
+name: Feature request
+description: Suggest an idea or improvement for Tvaro.
+labels: [enhancement]
+body:
+    - type: textarea
+      id: idea
+      attributes:
+          label: What would you like?
+          description: Describe the feature and the problem it solves.
+      validations:
+          required: true
+    - type: dropdown
+      id: platform
+      attributes:
+          label: Platform
+          multiple: true
+          options:
+              - Windows
+              - macOS
+              - Linux
+              - All platforms
