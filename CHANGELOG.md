@@ -1,5 +1,17 @@
 # Tvaro IPTV changelog
 
+## 0.1.3 — 2026-10-30
+
+### New
+
+- A new title bar: window controls now blend into the app instead of the standard Windows bar
+- Send logs to Tvaro from Settings › About › Diagnostics and get a support code to share with us
+
+### Improved
+
+- Lattice is now the default background pattern
+- Text no longer gets highlighted by accident while you use the app
+
 ## 0.1.2 — 2026-10-30
 
 ### New
