@@ -1,5 +1,25 @@
 # Tvaro IPTV changelog
 
+## 0.1.8 — 2026-10-31
+
+### New
+
+- Tvaro is now Tvaro IPTV Player; updating moves your install to the new name and keeps all your accounts and settings
+- A redesigned Accounts screen: your active account with its library at a glance, clear buttons for every action, and Add TV guide when your playlist has none
+- If Tvaro closes unexpectedly, it offers to send a report next time, and starts in safe mode after repeated crashes
+
+### Improved
+
+- The mouse wheel scrolls settings and lists smoothly on computers
+- Screens with nothing to show now show just a clear message and the next step
+- The troubleshooter tests a channel from your own list, explains when your provider has no TV guide, and keeps focus on what you can do next
+- A failed stream is retried after a short pause instead of immediately
+
+### Fixed
+
+- Tvaro no longer closes when opening the TV Guide or multiview, or when previews play on computers
+- Fixed a crash on Linux shortly after opening
+
 ## 0.1.7 — 2026-10-31
 
 ### New
