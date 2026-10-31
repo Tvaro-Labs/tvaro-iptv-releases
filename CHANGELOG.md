@@ -1,5 +1,15 @@
 # Tvaro IPTV changelog
 
+## 0.1.9 — 2026-10-31
+
+### Improved
+
+- More reliable update checks and problem reports
+
+### Fixed
+
+- Long troubleshooter checks are now included in the report you send
+
 ## 0.1.8 — 2026-10-31
 
 ### New
