@@ -1,5 +1,31 @@
 # Tvaro IPTV changelog
 
+## 0.1.6 — 2026-10-31
+
+### New
+
+- Many more videos play on Windows, including MKV, HEVC and Dolby/DTS audio, with hardware decoding
+- Video previews: focus a movie, series or channel and a short muted clip plays from the middle; turn it off in Settings › Player
+- The home hero plays a preview of the featured title
+- Resize the mini player by dragging its corner, move it to any corner, and double-click for a larger size
+- Multiview layouts: grid, one large with three small, side by side and one plus two, with adjustable dividers and tile swapping
+
+### Improved
+
+- Clearer messages that say what went wrong and what to do next
+- When your provider limits connections, Tvaro tells you and retries gently instead of repeatedly
+- User-Agent and Referer settings for an account now apply on desktop
+- Smoother seeking: the picture holds while skipping and quick skips combine into one jump
+- Playback keeps going when you minimize the window
+- The number keys on the numpad change channels
+- A simpler Diagnostics screen with a short privacy note
+
+### Fixed
+
+- Live TV and the channel list no longer close with an error when a playlist lists the same channel twice
+- The screen no longer shifts when a side panel opens
+- Videos your provider refuses are no longer reported as an unsupported format
+
 ## 0.1.5 — 2026-10-30
 
 ### New
