@@ -1,5 +1,22 @@
 # Tvaro IPTV changelog
 
+## 0.1.10 — 2026-11-01
+
+### New
+
+- Support for 2019 Samsung TVs
+- Optional sharing of anonymous TV details to help improve TV support
+
+### Improved
+
+- Smoother browsing on older TVs
+- No more font flicker while the app starts
+
+### Fixed
+
+- A start-up crash on some older TVs
+- Colour banding in backgrounds on TVs
+
 ## 0.1.9 — 2026-10-31
 
 ### Improved
