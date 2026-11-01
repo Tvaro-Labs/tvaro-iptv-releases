@@ -1,5 +1,29 @@
 # Tvaro IPTV changelog
 
+## 0.1.11 — 2026-11-01
+
+### All platforms
+
+#### Improved
+
+- Accounts and playlists are saved more reliably
+
+### TV
+
+#### Improved
+
+- Media, number and colour buttons on the remote now work on older Samsung TVs
+
+#### Fixed
+
+- A crash when exiting from the side menu
+
+### Android
+
+#### New
+
+- Tvaro IPTV Player for Android phones, Android TV and Fire TV
+
 ## 0.1.10 — 2026-11-01
 
 ### New
