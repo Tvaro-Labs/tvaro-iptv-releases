@@ -12,13 +12,14 @@
 
 - A refreshed Windows setup, now in English and Arabic
 
-## 0.1.11 — TV — 2026-11-01
+## 0.1.15 — TV — 2026-11-01
+
+### New
+
+- If your version is too old to keep working, the app now tells you clearly and shows how to update
 
 ### Improved
 
-- Accounts and playlists are saved more reliably
-- Media, number and colour buttons on the remote now work on older Samsung TVs
-
-### Fixed
-
-- A crash when exiting from the side menu
+- Faster startup
+- Stronger protection for updates and downloads
+- Better overall stability on every platform
