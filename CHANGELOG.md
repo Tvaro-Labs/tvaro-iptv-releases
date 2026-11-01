@@ -5,7 +5,6 @@
 ### New
 
 - Support for 2019 Samsung TVs
-- Optional sharing of anonymous TV details to help improve TV support
 
 ### Improved
 
