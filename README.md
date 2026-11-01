@@ -28,10 +28,6 @@
   <a href="https://tvaro.live/docs/"><b>Help</b></a>
 </p>
 
-<p align="center">
-  <img alt="Tvaro IPTV Player home screen with a featured series and a row of recently added series" src="assets/hero.webp" width="100%">
-</p>
-
 Tvaro IPTV Player brings your live TV, TV guide, movies and series together in one calm, consistent app. It is designed for the big screen and a TV remote first, and works just as well with a keyboard and mouse on your desktop. Add your own Xtream Codes account or M3U playlist, or explore the built-in demo first.
 
 > [!IMPORTANT]
@@ -57,25 +53,6 @@ Samsung and LG TVs are set up from a Windows, Mac or Linux computer on the same 
 [Windows](https://updates.tvaro.live/installer/windows) · [macOS](https://updates.tvaro.live/installer/macos) · [Linux `.deb`](https://updates.tvaro.live/installer/linux-deb) · [Linux `.rpm`](https://updates.tvaro.live/installer/linux-rpm) · [Linux `.AppImage`](https://updates.tvaro.live/installer/linux-appimage)
 
 These links always point to the latest version of the installer.
-
-## Screenshots
-
-<table>
-  <tr>
-    <td width="50%"><img alt="The TV guide in Full grid layout with channels, programmes and a now marker" src="assets/guide.webp"><p align="center"><sub>TV guide</sub></p></td>
-    <td width="50%"><img alt="The Live TV screen with categories and a grid of numbered channels" src="assets/live-tv.webp"><p align="center"><sub>Live TV</sub></p></td>
-  </tr>
-  <tr>
-    <td width="50%"><img alt="A series page with seasons, episodes and Play, Favorite and More info buttons" src="assets/series.webp"><p align="center"><sub>Series details</sub></p></td>
-    <td width="50%"><img alt="The Player section of Settings with player style, autoplay and subtitle options" src="assets/settings.webp"><p align="center"><sub>Player settings</sub></p></td>
-  </tr>
-  <tr>
-    <td width="50%"><img alt="Tvaro IPTV Player in a desktop window, showing the Movies grid" src="assets/desktop.webp"><p align="center"><sub>Desktop app</sub></p></td>
-    <td width="50%"><img alt="The Tvaro TV Installer listing three TVs found on the home network" src="assets/tv-installer.webp"><p align="center"><sub>Tvaro TV Installer</sub></p></td>
-  </tr>
-</table>
-
-<sub>Screenshots use the built-in demo library. All channel names, titles and artwork are fictional.</sub>
 
 ## Features
 
