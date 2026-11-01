@@ -1,5 +1,29 @@
 # Tvaro IPTV changelog
 
+## 0.1.12 — 2026-11-01
+
+### Desktop
+
+#### Improved
+
+- A refreshed Windows setup, now in English and Arabic
+
+### Android
+
+#### New
+
+- Updates download and install from inside the app
+- A notification when a new version is available
+
+#### Improved
+
+- Screens fit around the camera notch and system bars
+- Clearer wording on phones and the full Tvaro IPTV Player logo
+
+#### Fixed
+
+- The screen no longer slides under the status bar while typing
+
 ## 0.1.11 — 2026-11-01
 
 ### All platforms
