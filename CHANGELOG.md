@@ -12,11 +12,17 @@
 - Stronger protection for updates and downloads
 - Better overall stability on every platform
 
-## 0.1.12 — Desktop — 2026-11-01
+## 0.1.15 — Desktop — 2026-11-01
+
+### New
+
+- If your version is too old to keep working, the app now tells you clearly and shows how to update
 
 ### Improved
 
-- A refreshed Windows setup, now in English and Arabic
+- Faster startup
+- Stronger protection for updates and downloads
+- Better overall stability on every platform
 
 ## 0.1.15 — TV — 2026-11-01
 
