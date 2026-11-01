@@ -1,5 +1,13 @@
 # Tvaro IPTV changelog
 
+## 0.1.13 — 2026-11-01
+
+### Android
+
+#### Fixed
+
+- The app could close right after opening
+
 ## 0.1.12 — 2026-11-01
 
 ### Desktop
