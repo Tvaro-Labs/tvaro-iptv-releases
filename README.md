@@ -28,6 +28,10 @@
   <a href="https://tvaro.live/docs/"><b>Help</b></a>
 </p>
 
+<p align="center">
+  <img alt="Tvaro IPTV Player home screen with a featured series and a row of recently added series" src="assets/hero.webp" width="100%">
+</p>
+
 Tvaro IPTV Player brings your live TV, TV guide, movies and series together in one calm, consistent app. It is designed for the big screen and a TV remote first, and works just as well with a keyboard and mouse on your desktop. Add your own Xtream Codes account or M3U playlist, or explore the built-in demo first.
 
 > [!IMPORTANT]
