@@ -22,17 +22,15 @@
 - Stronger protection for updates and downloads
 - Better overall stability on every platform
 
-## 0.1.15 — TV — 2026-11-01
+## 0.1.16 — TV — 2026-11-02
 
 ### New
 
-- If your version is too old to keep working, the app now tells you clearly and shows how to update
+- Sign in with your phone: scan the QR code on your TV and enter your details there instead of typing with the remote
 
 ### Improved
 
-- Faster startup
-- Stronger protection for updates and downloads
-- Better overall stability on every platform
+- Sharper app icons
 
 ## 0.1.4 — TV Installer — 2026-11-02
 
