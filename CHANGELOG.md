@@ -1,16 +1,14 @@
 # Tvaro IPTV Player changelog
 
-## 0.1.15 — Android — 2026-11-01
+## 0.1.16 — Android — 2026-11-02
 
 ### New
 
-- If your version is too old to keep working, the app now tells you clearly and shows how to update
+- Sign in on your TV from your phone: scan the QR code on the TV, then send a saved account or enter your details in the app
 
 ### Improved
 
-- Faster startup
-- Stronger protection for updates and downloads
-- Better overall stability on every platform
+- Sharper app icons
 
 ## 0.1.15 — Desktop — 2026-11-01
 
