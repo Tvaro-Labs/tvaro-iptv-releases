@@ -36,14 +36,20 @@
 - Stronger protection for updates and downloads
 - Better overall stability on every platform
 
-## 0.1.3 — TV Installer — 2026-11-01
+## 0.1.4 — TV Installer — 2026-11-02
 
 ### New
 
-- Important notices from the Tvaro team now appear right in the app
-- If your version is too old to keep working, the app now tells you clearly and shows how to update
+- Finds every TV on your network and shows each one with its brand and model
+- TVs the installer can't set up now get a clear guide to what works on them
+- On Android phones, install and update Tvaro IPTV Player right from the app
+- Light mode, with a Light, Dark or System choice
 
 ### Improved
 
-- Every TV package is verified before it is installed on your TV
-- Better overall stability on desktop and Android
+- Sharper logos and icons
+
+### Fixed
+
+- On Android phones, sheets no longer slide under the status bar when you scroll with the keyboard open
+- The Arabic label for adding a TV by IP address now fits on phones
