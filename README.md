@@ -29,4 +29,4 @@ Get Tvaro IPTV Player for Windows, macOS, Linux, Android, and Samsung and LG TVs
 > [!IMPORTANT]
 > Tvaro IPTV Player is a media player only. It doesn't include, sell or recommend any channels, playlists or subscriptions. Use it only with sources you're authorised to access.
 
-This repository hosts release files for the apps' updaters. © 2026 Tvaro. All rights reserved. [Privacy](https://tvaro.live/privacy/) · [Terms](https://tvaro.live/terms/)
+© 2026 Tvaro. All rights reserved. [Privacy](https://tvaro.live/privacy/) · [Terms](https://tvaro.live/terms/)
