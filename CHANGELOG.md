@@ -22,15 +22,15 @@
 - Stronger protection for updates and downloads
 - Better overall stability on every platform
 
-## 0.1.16 — TV — 2026-11-02
-
-### New
-
-- Sign in with your phone: scan the QR code on your TV and enter your details there instead of typing with the remote
+## 0.1.17 — TV — 2026-11-03
 
 ### Improved
 
-- Sharper app icons
+- Sharper Tvaro logo
+
+### Fixed
+
+- If the app can't start, it now shows a message with options to restart or reset instead of staying on the loading screen
 
 ## 0.1.5 — TV Installer — 2026-11-03
 
