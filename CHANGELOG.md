@@ -42,3 +42,9 @@
 ### Fixed
 
 - Help and about no longer shows two scrollbars
+
+## 0.1.6 — TV Installer for Android — 2026-11-03
+
+### Fixed
+
+- The screen you see while the app opens now matches your light or dark theme
