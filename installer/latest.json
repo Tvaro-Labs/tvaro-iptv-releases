@@ -1,39 +1,15 @@
 {
-  "version": "0.1.4",
-  "notes": "### New\n\n- Finds every TV on your network and shows each one with its brand and model\n- TVs the installer can't set up now get a clear guide to what works on them\n- On Android phones, install and update Tvaro IPTV Player right from the app\n- Light mode, with a Light, Dark or System choice\n\n### Improved\n\n- Sharper logos and icons\n\n### Fixed\n\n- On Android phones, sheets no longer slide under the status bar when you scroll with the keyboard open\n- The Arabic label for adding a TV by IP address now fits on phones",
-  "pub_date": "2026-11-02T16:01:36.472Z",
+  "version": "0.1.5",
+  "notes": "### New\n\n- A new Settings screen with categories for General, Updates, Accounts, Privacy, and Help and about\n- Sign in with more than one Samsung account and see which TVs use each one\n- Install a saved copy of Tvaro IPTV Player on your TV when there's no internet\n- A QR code and download button make it easy to get the Android app from your computer\n- On Android phones, choose which update notifications you get right in the app\n- Privacy policy and Terms of use links in Help and about\n\n### Improved\n\n- A sharper, cleaner Tvaro logo on app icons and screens\n- Android phones now get a simpler top bar, full-screen language and theme choices, and bottom sheets\n- Clear messages when your Wi-Fi or internet connection is down, and installs pick up again when it's back\n- When a TV already has Tvaro IPTV Player from another device or account, the app explains it, shows your account and offers a way forward\n- A dropdown for choosing your language, ready for more languages\n\n### Fixed\n\n- On Android 17, finding TVs and adding one by IP address work again once you allow Nearby devices\n- A saved copy of Tvaro IPTV Player no longer replaces a newer version on your TV\n- On Android phones, the System theme now applies right away\n- Signing in again after you cancel or close the browser now works\n- Settings rows no longer sit under the navigation bar on Android phones\n- The theme choice no longer cuts off \"System\"\n- Messages no longer cover the screen title on Android phones",
+  "pub_date": "2026-11-03T14:06:51.160Z",
   "platforms": {
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYnhseGVGS2k5aXlIUkV3V2sxWTBoQ3NxczFKU25RbE1LeFNlSEtkUjEycmV5MGtzS2txQ0tVT2xGeHh0NGVwam1SYXZiVmRMa3F5QTAzT2RSQzhXQjI5MGd0ZlQyTndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjM0NjAzCWZpbGU6VHZhcm8gVFYgSW5zdGFsbGVyLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNApmUGFVYkZyZE9CTVJXZ0JZbmxGeWFiVDFzaGYrNG9jbEVlMDlqZGhlbGFMWERtTTNwRnRRd2x0T1YvUEFUWDM3VEIvaE4xRHdkazVyOXVSWUE0TlFCQT09Cg==",
-      "url": "https://api.github.com/repos/Tvaro-Labs/tvaro-iptv-releases/releases/assets/702276604"
-    },
-    "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYnhseGVGS2k5aXlIUkV3V2sxWTBoQ3NxczFKU25RbE1LeFNlSEtkUjEycmV5MGtzS2txQ0tVT2xGeHh0NGVwam1SYXZiVmRMa3F5QTAzT2RSQzhXQjI5MGd0ZlQyTndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjM0NjAzCWZpbGU6VHZhcm8gVFYgSW5zdGFsbGVyLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNApmUGFVYkZyZE9CTVJXZ0JZbmxGeWFiVDFzaGYrNG9jbEVlMDlqZGhlbGFMWERtTTNwRnRRd2x0T1YvUEFUWDM3VEIvaE4xRHdkazVyOXVSWUE0TlFCQT09Cg==",
-      "url": "https://api.github.com/repos/Tvaro-Labs/tvaro-iptv-releases/releases/assets/702276604"
-    },
-    "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYnhseGVGS2k5aTUzRkhFMy82OE8yUTZWT3NEdGUrbEpRZzRTL3VjempSUHhLR3NlWHlMQUlRaVFCS1ZMN1d4QlY0aEs5ZnNQKzFBb1EwK3NaTG5yR3c2YUZzQnYxMGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjM1MDk1CWZpbGU6VHZhcm8gVFYgSW5zdGFsbGVyXzAuMS40X2FtZDY0LkFwcEltYWdlCXZlcnNpb246MC4xLjQKNG90clRncktYVXV0Y3RRekliZnRxSjA4UFVzRFB0MlBpaGZUeUN3RkgxdXBmZzc5WURnQWZTOTBlZzJhWTBHK051cDBVREVCWnF3ZjVWUXh1RWJyQlE9PQo=",
-      "url": "https://api.github.com/repos/Tvaro-Labs/tvaro-iptv-releases/releases/assets/702304572"
-    },
-    "linux-x86_64-appimage": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYnhseGVGS2k5aTUzRkhFMy82OE8yUTZWT3NEdGUrbEpRZzRTL3VjempSUHhLR3NlWHlMQUlRaVFCS1ZMN1d4QlY0aEs5ZnNQKzFBb1EwK3NaTG5yR3c2YUZzQnYxMGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjM1MDk1CWZpbGU6VHZhcm8gVFYgSW5zdGFsbGVyXzAuMS40X2FtZDY0LkFwcEltYWdlCXZlcnNpb246MC4xLjQKNG90clRncktYVXV0Y3RRekliZnRxSjA4UFVzRFB0MlBpaGZUeUN3RkgxdXBmZzc5WURnQWZTOTBlZzJhWTBHK051cDBVREVCWnF3ZjVWUXh1RWJyQlE9PQo=",
-      "url": "https://api.github.com/repos/Tvaro-Labs/tvaro-iptv-releases/releases/assets/702304572"
-    },
-    "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYnhseGVGS2k5aTBzeDZOR21sdEpNbzVuZVJvTTZ0SlFxSURQQTk3K3RXUGpzd2JBWFVObXdjMkh3eXlmeUhUaW0vU2kzcVRQQnBaalhQNlZrc3IzSDVEYmhadWNsNFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjM1MDk1CWZpbGU6VHZhcm8gVFYgSW5zdGFsbGVyXzAuMS40X2FtZDY0LmRlYgl2ZXJzaW9uOjAuMS40CnNUbUdIa2YycVRpYmUyWUh1UHVNdk9ZUEZENFpMSmdNUDA1TWRLT1VsL3ZzWnJJWFBKdS9wOFAwUmNqQzlHOS9jWXFkWVJlbXozdmlRb2puc2xWekNRPT0K",
-      "url": "https://api.github.com/repos/Tvaro-Labs/tvaro-iptv-releases/releases/assets/702304400"
-    },
-    "linux-x86_64-rpm": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYnhseGVGS2k5aS83T3RkR3pvaXd0dy9CTHF5Z3BWUElTaHRHYlo0RldESGJUWG04aXJ3bkptSFJXM3F1MnRPYTQzUFQ5cGZzUy92cU1uWEZMUHI5TFl0blhjSnovZGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjM1MDk1CWZpbGU6VHZhcm8gVFYgSW5zdGFsbGVyLTAuMS40LTEueDg2XzY0LnJwbQl2ZXJzaW9uOjAuMS40Cm5MOTltVWU4SGxPTFdVZ2MvZk1FSFh6eDRpdFBOcFJQSWR6VWhSdDZYc1E2eG1QZkgyTk5XQ1R0eEtQNTVqZEJ6dWlLOC9mMGxPSDNONHY1dXNBZEF3PT0K",
-      "url": "https://api.github.com/repos/Tvaro-Labs/tvaro-iptv-releases/releases/assets/702304507"
-    },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYnhseGVGS2k5aXg5aHBSV2tuR3FpbkQ5bVRVWGpLbFg3TFVyMkxCVDdNVTlnM0Y1eWorK3VDdGptTG1sbjFkaHR5WGx3bkVScmdhWmgxakpRcXNGQm9Tb1F0QXgyWWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjM1MjkzCWZpbGU6VHZhcm8gVFYgSW5zdGFsbGVyXzAuMS40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNApLeUtqSEhpcXFyRWU5OFZoRERYSE04OENsd2QzS3lEdEZsTExNcXQweGJyb1BXYkZ2b1V2Tmlyc0wvQXVHTWl6WENweUxxOWFJODlJN0FzZDZLN01Bdz09Cg==",
-      "url": "https://api.github.com/repos/Tvaro-Labs/tvaro-iptv-releases/releases/assets/702315099"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYnhseGVGS2k5aXdWTDZoa1duWEFURGF4dDRlcHpqK0hxVGszUHB0V1Z5dDdjZDNOL29tMXJXNEFBbzVuMDhOMVFoalRQZmVhdVd0b2V5dy9PUkpnb05ibGlFalUwV2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzEyMDU2CWZpbGU6VHZhcm8gVFYgSW5zdGFsbGVyXzAuMS41X3g2NC1zZXR1cC5leGUKdFJnTzBaU0R4SnV6SFBmNlllNVpqRURnWXZEYVdNMHprWjBBQkkxU01oOThjdCtFRHVMdmIxNFZmK3hjVnc2cjR0b2FGVDgyNDhyYmZieGVROVU3Q0E9PQo=",
+      "url": "https://api.github.com/repos/Tvaro-Labs/tvaro-iptv-releases/releases/assets/705828222"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYnhseGVGS2k5aXg5aHBSV2tuR3FpbkQ5bVRVWGpLbFg3TFVyMkxCVDdNVTlnM0Y1eWorK3VDdGptTG1sbjFkaHR5WGx3bkVScmdhWmgxakpRcXNGQm9Tb1F0QXgyWWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjM1MjkzCWZpbGU6VHZhcm8gVFYgSW5zdGFsbGVyXzAuMS40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNApLeUtqSEhpcXFyRWU5OFZoRERYSE04OENsd2QzS3lEdEZsTExNcXQweGJyb1BXYkZ2b1V2Tmlyc0wvQXVHTWl6WENweUxxOWFJODlJN0FzZDZLN01Bdz09Cg==",
-      "url": "https://api.github.com/repos/Tvaro-Labs/tvaro-iptv-releases/releases/assets/702315099"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYnhseGVGS2k5aXdWTDZoa1duWEFURGF4dDRlcHpqK0hxVGszUHB0V1Z5dDdjZDNOL29tMXJXNEFBbzVuMDhOMVFoalRQZmVhdVd0b2V5dy9PUkpnb05ibGlFalUwV2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzEyMDU2CWZpbGU6VHZhcm8gVFYgSW5zdGFsbGVyXzAuMS41X3g2NC1zZXR1cC5leGUKdFJnTzBaU0R4SnV6SFBmNlllNVpqRURnWXZEYVdNMHprWjBBQkkxU01oOThjdCtFRHVMdmIxNFZmK3hjVnc2cjR0b2FGVDgyNDhyYmZieGVROVU3Q0E9PQo=",
+      "url": "https://api.github.com/repos/Tvaro-Labs/tvaro-iptv-releases/releases/assets/705828222"
     }
   }
 }
