@@ -1,14 +1,19 @@
 # Tvaro IPTV Player changelog
 
-## 0.1.16 — Android — 2026-11-02
+## 0.1.17 — Android — 2026-11-04
 
 ### New
 
-- Sign in on your TV from your phone: scan the QR code on the TV, then send a saved account or enter your details in the app
+- Choose what you share when you first open the app
 
 ### Improved
 
-- Sharper app icons
+- A sharper Tvaro logo and app icons
+
+### Fixed
+
+- If the app can't start, it now shows a message with options to restart or reset instead of staying on the loading screen
+- Pinching or double-tapping no longer zooms the app
 
 ## 0.1.16 — Desktop — 2026-11-03
 
