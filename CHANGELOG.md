@@ -39,8 +39,14 @@
 - Fix an install that's blocked by a copy from another device or account
 - Choose what you share when you first open the app
 
-## 0.1.6 — TV Installer for Android — 2026-11-03
+## 0.1.7 — TV Installer for Android — 2026-11-04
+
+### New
+
+- Uninstall Tvaro IPTV Player from your TV right in the app
+- Fix an install that's blocked by a copy from another device or account
+- Choose what you share when you first open the app
 
 ### Fixed
 
-- The screen you see while the app opens now matches your light or dark theme
+- Pinching or double-tapping no longer zooms the app
