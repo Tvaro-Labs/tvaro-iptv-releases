@@ -15,16 +15,11 @@
 - If the app can't start, it now shows a message with options to restart or reset instead of staying on the loading screen
 - Pinching or double-tapping no longer zooms the app
 
-## 0.1.16 — Desktop — 2026-11-03
+## 0.1.17 — Desktop — 2026-11-04
 
-### Improved
+### New
 
-- The window now opens with the app ready, with no loading screen first
-- A sharper Tvaro logo and app icons
-
-### Fixed
-
-- If the app can't start, it now shows a message with options to restart or reset instead of staying on the loading screen
+- Choose what you share when you first open the app
 
 ## 0.1.17 — TV — 2026-11-03
 
