@@ -31,16 +31,13 @@
 
 - If the app can't start, it now shows a message with options to restart or reset instead of staying on the loading screen
 
-## 0.1.6 — TV Installer — 2026-11-03
+## 0.1.7 — TV Installer — 2026-11-04
 
-### Improved
+### New
 
-- A cleaner home screen, centred in the window
-- A shorter Help link with its own icon at the bottom of the window
-
-### Fixed
-
-- Help and about no longer shows two scrollbars
+- Uninstall Tvaro IPTV Player from your TV right in the app
+- Fix an install that's blocked by a copy from another device or account
+- Choose what you share when you first open the app
 
 ## 0.1.6 — TV Installer for Android — 2026-11-03
 
