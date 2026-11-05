@@ -69,24 +69,9 @@
 - The last TV you used is no longer highlighted when the app opens
 - The leftover entry on Samsung TVs now points to the right place, Downloaded apps
 
-## 0.1.9 — TV Manager for Android — 2026-11-05
-
-### New
-
-- Get help from our support team in a session you start yourself for a Samsung or LG TV. You choose what support can do and can end the session at any time
-- A new Apps page shows Tvaro IPTV Player and Tvaro TV Manager in one place, with a page for each app
-- Apps and Settings are now in the top bar on the TVs screen
+## 0.1.10 — TV Manager for Android — 2026-11-05
 
 ### Improved
 
-- Removing Tvaro IPTV Player from a TV now also clears its saved data and removes every copy
-- The app waits until the TV confirms a removal before saying it's done
-- Buttons are easier to tell apart, so the main action on each screen stands out
-- A cleaner layout across the app
-
-### Fixed
-
-- If an LG TV doesn't report its app version, the app now says so and lets you check again or reinstall
-- An unreadable reply from an LG TV no longer shows as a problem with your network
-- The last TV you used is no longer highlighted when the app opens
-- The leftover entry on Samsung TVs now points to the right place, Downloaded apps
+- The Apps page now lists just your Tvaro apps, and TV Manager updates stay in Settings
+- Checking a TV for problems now has a clearer name and steps
