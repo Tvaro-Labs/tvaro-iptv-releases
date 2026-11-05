@@ -1,6 +1,6 @@
 {
   "version": "0.1.10",
-  "notes": "### Improved\n\n- The Apps page now lists just your Tvaro apps, and TV Manager updates stay in Settings\n- Checking a TV for problems now has a clearer name and steps",
+  "notes": "### Improved\n\n- Simpler Apps page, with TV Manager updates in Settings\n- Clearer steps for checking your TV",
   "pub_date": "2026-11-05T16:27:25.253Z",
   "held": {
     "macos": "0.1.4",

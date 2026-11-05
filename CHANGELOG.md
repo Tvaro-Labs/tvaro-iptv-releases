@@ -4,40 +4,40 @@
 
 ### New
 
-- Problems now show a short code number, so support can help you faster
+- Error codes for faster support
 
 ### Fixed
 
-- Live channels keep playing when your provider sends one bad reply
-- Pictures that can't load no longer keep trying and flickering
+- More reliable live playback
+- Bug fixes and performance improvements
 
 ## 0.1.17 — Desktop — 2026-11-04
 
 ### New
 
-- Choose what you share when you first open the app
+- Choose what you share at first launch
 
 ## 0.1.21 — Samsung TV — 2026-11-05
 
 ### New
 
-- Problems now show a short code number, so support can help you faster
+- Error codes for faster support
 
 ## 0.1.21 — LG TV — 2026-11-05
 
 ### New
 
-- Problems now show a short code number, so support can help you faster
+- Error codes for faster support
 
 ## 0.1.10 — TV Manager — 2026-11-05
 
 ### Improved
 
-- The Apps page now lists just your Tvaro apps, and TV Manager updates stay in Settings
-- Checking a TV for problems now has a clearer name and steps
+- Simpler Apps page, with TV Manager updates in Settings
+- Clearer steps for checking your TV
 
 ## 0.1.11 — TV Manager for Android — 2026-11-05
 
 ### New
 
-- Problems now show a short code number, so support can help you faster
+- Error codes for faster support
