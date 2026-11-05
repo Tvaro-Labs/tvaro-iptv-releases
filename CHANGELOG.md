@@ -36,9 +36,8 @@
 - The Apps page now lists just your Tvaro apps, and TV Manager updates stay in Settings
 - Checking a TV for problems now has a clearer name and steps
 
-## 0.1.10 — TV Manager for Android — 2026-11-05
+## 0.1.11 — TV Manager for Android — 2026-11-05
 
-### Improved
+### New
 
-- The Apps page now lists just your Tvaro apps, and TV Manager updates stay in Settings
-- Checking a TV for problems now has a clearer name and steps
+- Problems now show a short code number, so support can help you faster
