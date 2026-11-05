@@ -36,15 +36,20 @@
 
 - Fixed a problem that could stop the player, details and options screens from opening
 
-## 0.1.17 — TV — 2026-11-03
+## 0.1.20 — LG TV — 2026-11-05
+
+### New
+
+- Choose what you share when you first open the app
 
 ### Improved
 
-- Sharper Tvaro logo
+- If the app can't start, the message now shows where it stopped, and it appears in more cases
+- Tvaro TV Manager can now clear this app's saved data when you remove it from your TV
 
 ### Fixed
 
-- If the app can't start, it now shows a message with options to restart or reset instead of staying on the loading screen
+- Fixed a problem that could stop the player, details and options screens from opening
 
 ## 0.1.8 — TV Manager — 2026-11-04
 
