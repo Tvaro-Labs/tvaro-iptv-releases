@@ -1,15 +1,15 @@
 # Tvaro IPTV Player changelog
 
-## 0.1.18 — Android — 2026-11-05
+## 0.1.19 — Android — 2026-11-05
 
 ### New
 
-- Get help from our support team in a session you start yourself from Settings. You choose what support can do and can end the session at any time
+- Problems now show a short code number, so support can help you faster
 
-### Improved
+### Fixed
 
-- A smaller download
-- If the app can't start, the message now shows where it stopped
+- Live channels keep playing when your provider sends one bad reply
+- Pictures that can't load no longer keep trying and flickering
 
 ## 0.1.17 — Desktop — 2026-11-04
 
