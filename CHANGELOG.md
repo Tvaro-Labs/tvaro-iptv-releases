@@ -1,19 +1,15 @@
 # Tvaro IPTV Player changelog
 
-## 0.1.17 — Android — 2026-11-04
+## 0.1.18 — Android — 2026-11-05
 
 ### New
 
-- Choose what you share when you first open the app
+- Get help from our support team in a session you start yourself from Settings. You choose what support can do and can end the session at any time
 
 ### Improved
 
-- A sharper Tvaro logo and app icons
-
-### Fixed
-
-- If the app can't start, it now shows a message with options to restart or reset instead of staying on the loading screen
-- Pinching or double-tapping no longer zooms the app
+- A smaller download
+- If the app can't start, the message now shows where it stopped
 
 ## 0.1.17 — Desktop — 2026-11-04
 
