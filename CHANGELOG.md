@@ -20,15 +20,12 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.22 — Samsung TV — 2026-11-06
+## 0.1.23 — Samsung TV — 2026-11-06
 
 ### Improved
 
-- Cleaner app removal
-
-### Fixed
-
-- Bug fixes and performance improvements
+- Large playlists load without freezing the app
+- Smoother browsing through big channel and movie lists
 
 ## 0.1.23 — LG TV — 2026-11-06
 
