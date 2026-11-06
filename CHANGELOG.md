@@ -28,12 +28,16 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.10 — TV Manager — 2026-11-05
+## 0.1.11 — TV Manager — 2026-11-06
 
-### Improved
+### New
 
-- Simpler Apps page, with TV Manager updates in Settings
-- Clearer steps for checking your TV
+- Easier LG TV setup
+- See update versions at a glance
+
+### Fixed
+
+- Bug fixes and performance improvements
 
 ## 0.1.12 — TV Manager for Android — 2026-11-06
 
