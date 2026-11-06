@@ -1,14 +1,9 @@
 # Tvaro IPTV Player changelog
 
-## 0.1.19 — Android — 2026-11-05
-
-### New
-
-- Error codes for faster support
+## 0.1.20 — Android — 2026-11-06
 
 ### Fixed
 
-- More reliable live playback
 - Bug fixes and performance improvements
 
 ## 0.1.17 — Desktop — 2026-11-04
