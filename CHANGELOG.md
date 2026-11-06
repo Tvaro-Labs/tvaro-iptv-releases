@@ -23,11 +23,11 @@
 
 - Error codes for faster support
 
-## 0.1.21 — LG TV — 2026-11-05
+## 0.1.22 — LG TV — 2026-11-06
 
-### New
+### Fixed
 
-- Error codes for faster support
+- Bug fixes and performance improvements
 
 ## 0.1.10 — TV Manager — 2026-11-05
 
