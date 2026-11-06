@@ -30,11 +30,16 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.22 — LG TV — 2026-11-06
+## 0.1.23 — LG TV — 2026-11-06
+
+### Improved
+
+- Large playlists load without freezing the app
+- Smoother browsing through big channel and movie lists
 
 ### Fixed
 
-- Bug fixes and performance improvements
+- More reliable startup on LG TVs
 
 ## 0.1.11 — TV Manager — 2026-11-06
 
