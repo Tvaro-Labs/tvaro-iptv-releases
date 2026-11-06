@@ -39,16 +39,11 @@
 
 - More reliable startup on LG TVs
 
-## 0.1.11 — TV Manager — 2026-11-06
+## 0.1.12 — TV Manager — 2026-11-06
 
-### New
+### Improved
 
-- Easier LG TV setup
-- See update versions at a glance
-
-### Fixed
-
-- Bug fixes and performance improvements
+- Faster app installs to Samsung TVs
 
 ## 0.1.13 — TV Manager for Android — 2026-11-06
 
