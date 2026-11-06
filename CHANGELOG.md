@@ -6,11 +6,19 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.17 — Desktop — 2026-11-04
+## 0.1.18 — Desktop — 2026-11-06
 
 ### New
 
-- Choose what you share at first launch
+- Error codes for faster support
+
+### Improved
+
+- Clearer startup messages
+
+### Fixed
+
+- Bug fixes and performance improvements
 
 ## 0.1.22 — Samsung TV — 2026-11-06
 
