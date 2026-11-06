@@ -1,10 +1,11 @@
 # Tvaro IPTV Player changelog
 
-## 0.1.20 — Android — 2026-11-06
+## 0.1.21 — Android — 2026-11-06
 
-### Fixed
+### Improved
 
-- Bug fixes and performance improvements
+- Large playlists load without freezing the app
+- Smoother browsing through big channel and movie lists
 
 ## 0.1.18 — Desktop — 2026-11-06
 
