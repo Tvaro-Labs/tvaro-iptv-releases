@@ -17,11 +17,15 @@
 
 - Choose what you share at first launch
 
-## 0.1.21 — Samsung TV — 2026-11-05
+## 0.1.22 — Samsung TV — 2026-11-06
 
-### New
+### Improved
 
-- Error codes for faster support
+- Cleaner app removal
+
+### Fixed
+
+- Bug fixes and performance improvements
 
 ## 0.1.22 — LG TV — 2026-11-06
 
