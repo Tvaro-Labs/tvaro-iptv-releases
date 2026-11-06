@@ -7,19 +7,12 @@
 - Large playlists load without freezing the app
 - Smoother browsing through big channel and movie lists
 
-## 0.1.18 — Desktop — 2026-11-06
-
-### New
-
-- Error codes for faster support
+## 0.1.19 — Desktop — 2026-11-06
 
 ### Improved
 
-- Clearer startup messages
-
-### Fixed
-
-- Bug fixes and performance improvements
+- Large playlists load without freezing the app
+- Smoother browsing through big channel and movie lists
 
 ## 0.1.23 — Samsung TV — 2026-11-06
 
