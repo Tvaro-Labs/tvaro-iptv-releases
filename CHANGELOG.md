@@ -32,19 +32,15 @@
 - Movies and shows resume where you left off
 - Bug fixes and performance improvements
 
-## 0.1.24 — Samsung TV — 2026-11-07
-
-### New
-
-- A fuller home screen with more rows to browse and bigger, clearer artwork
+## 0.1.25 — Samsung TV — 2026-11-07
 
 ### Improved
 
-- Smoother, faster menus on older TVs
+- More space between the side menu and your content
 
 ### Fixed
 
-- Movies and shows resume where you left off, and every title now shows its artwork
+- Retry now picks up where playback stopped
 - Bug fixes and performance improvements
 
 ## 0.1.25 — LG TV — 2026-11-07
