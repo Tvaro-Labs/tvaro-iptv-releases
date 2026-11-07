@@ -21,16 +21,20 @@
 - Large playlists load without freezing the app
 - Smoother browsing through big channel and movie lists
 
-## 0.1.23 — LG TV — 2026-11-06
+## 0.1.24 — LG TV — 2026-11-07
+
+### New
+
+- A fuller home screen with more rows to browse and bigger, clearer artwork
 
 ### Improved
 
-- Large playlists load without freezing the app
-- Smoother browsing through big channel and movie lists
+- Smoother, faster menus on older TVs
 
 ### Fixed
 
-- More reliable startup on LG TVs
+- Movies and shows resume where you left off, and every title now shows its artwork
+- Bug fixes and performance improvements
 
 ## 0.1.12 — TV Manager — 2026-11-06
 
