@@ -1,10 +1,14 @@
 # Tvaro IPTV Player changelog
 
-## 0.1.23 — Android — 2026-11-07
+## 0.1.24 — Android — 2026-11-07
+
+### New
+
+- Every movie and show now has clean artwork, even without a picture from your provider
 
 ### Fixed
 
-- Retry now picks up where playback stopped
+- Enter your PIN with your remote's number buttons or your keyboard
 - Bug fixes and performance improvements
 
 ## 0.1.21 — Desktop — 2026-11-07
