@@ -53,11 +53,15 @@
 - Movies and shows resume where you left off, and every title now shows its artwork
 - Bug fixes and performance improvements
 
-## 0.1.12 — TV Manager — 2026-11-06
+## 0.1.13 — TV Manager — 2026-11-07
 
 ### Improved
 
-- Faster app installs to Samsung TVs
+- A cleaner, more consistent look with the correct brand logos across the app
+
+### Fixed
+
+- Bug fixes and visual polish
 
 ## 0.1.14 — TV Manager for Android — 2026-11-07
 
