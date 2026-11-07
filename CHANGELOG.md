@@ -45,15 +45,11 @@
 - Retry now picks up where playback stopped
 - Bug fixes and performance improvements
 
-## 0.1.13 — TV Manager — 2026-11-07
-
-### Improved
-
-- A cleaner, more consistent look with the correct brand logos across the app
+## 0.1.14 — TV Manager — 2026-11-07
 
 ### Fixed
 
-- Bug fixes and visual polish
+- Bug fixes and performance improvements
 
 ## 0.1.15 — TV Manager for Android — 2026-11-07
 
