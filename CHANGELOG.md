@@ -46,8 +46,9 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.15 — TV Manager for Android — 2026-11-07
+## 0.1.16 — TV Manager for Android — 2026-11-07
 
-### Fixed
+### Improved
 
+- A cleaner, simpler Home screen
 - Bug fixes and performance improvements
