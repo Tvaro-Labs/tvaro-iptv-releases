@@ -44,11 +44,15 @@
 - Enter your PIN with your remote's number buttons or your keyboard
 - Bug fixes and performance improvements
 
-## 0.1.14 — TV Manager — 2026-11-07
+## 0.1.15 — TV Manager — 2026-11-07
 
-### Fixed
+### New
 
-- Bug fixes and performance improvements
+- Install Tvaro IPTV Player on Android TV and Google TV
+
+### Improved
+
+- A cleaner, simpler Home screen
 
 ## 0.1.16 — TV Manager for Android — 2026-11-07
 
