@@ -7,20 +7,15 @@
 - Retry now picks up where playback stopped
 - Bug fixes and performance improvements
 
-## 0.1.20 — Desktop — 2026-11-07
-
-### New
-
-- A fuller home screen with more rows and bigger artwork
-- Send the app's streaming through your own proxy to reach providers your network blocks
+## 0.1.21 — Desktop — 2026-11-07
 
 ### Improved
 
-- Every movie and show now shows its artwork, with cleaner detail pages
+- More space between the side menu and your content
 
 ### Fixed
 
-- Movies and shows resume where you left off
+- Retry now picks up where playback stopped
 - Bug fixes and performance improvements
 
 ## 0.1.25 — Samsung TV — 2026-11-07
