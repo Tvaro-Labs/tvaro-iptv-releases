@@ -16,12 +16,21 @@
 - Movies and shows resume where you left off
 - Bug fixes and performance improvements
 
-## 0.1.19 — Desktop — 2026-11-06
+## 0.1.20 — Desktop — 2026-11-07
+
+### New
+
+- A fuller home screen with more rows and bigger artwork
+- Send the app's streaming through your own proxy to reach providers your network blocks
 
 ### Improved
 
-- Large playlists load without freezing the app
-- Smoother browsing through big channel and movie lists
+- Every movie and show now shows its artwork, with cleaner detail pages
+
+### Fixed
+
+- Movies and shows resume where you left off
+- Bug fixes and performance improvements
 
 ## 0.1.24 — Samsung TV — 2026-11-07
 
