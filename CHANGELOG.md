@@ -18,15 +18,15 @@
 - Retry now picks up where playback stopped
 - Bug fixes and performance improvements
 
-## 0.1.25 — Samsung TV — 2026-11-07
+## 0.1.26 — Samsung TV — 2026-11-07
 
-### Improved
+### New
 
-- More space between the side menu and your content
+- Every movie and show now has clean artwork, even without a picture from your provider
 
 ### Fixed
 
-- Retry now picks up where playback stopped
+- Enter your PIN with your remote's number buttons or your keyboard
 - Bug fixes and performance improvements
 
 ## 0.1.26 — LG TV — 2026-11-07
