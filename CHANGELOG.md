@@ -1,19 +1,10 @@
 # Tvaro IPTV Player changelog
 
-## 0.1.22 — Android — 2026-11-07
-
-### New
-
-- A fuller home screen with more rows and bigger artwork
-- Send the app's streaming through your own proxy to reach providers your network blocks
-
-### Improved
-
-- Every movie and show now shows its artwork, with cleaner detail pages
+## 0.1.23 — Android — 2026-11-07
 
 ### Fixed
 
-- Movies and shows resume where you left off
+- Retry now picks up where playback stopped
 - Bug fixes and performance improvements
 
 ## 0.1.20 — Desktop — 2026-11-07
