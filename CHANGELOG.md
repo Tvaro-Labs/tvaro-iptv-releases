@@ -12,12 +12,12 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.23 — Desktop — 2026-11-09
+## 0.1.24 — Desktop — 2026-11-09
 
 ### Improved
 
-- Starts faster and uses less memory with large playlists and TV guides
-- Shows what loaded even when part of your library could not, with a quick way to try again
+- On Mac, Tvaro IPTV Player is now verified by Apple and opens without security warnings
+- Updates install smoothly, without false error messages
 
 ### Fixed
 
