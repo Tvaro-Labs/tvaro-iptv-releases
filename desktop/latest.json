@@ -1,6 +1,6 @@
 {
   "version": "0.1.24",
-  "notes": "### Improved\n\n- On Mac, Tvaro IPTV Player is now verified by Apple and opens without security warnings\n- Updates install smoothly, without false error messages\n\n### Fixed\n\n- Bug fixes and performance improvements",
+  "notes": "### New\n\n- Tvaro IPTV Player is now available as an Apple-verified app for Mac\n\n### Fixed\n\n- Bug fixes and performance improvements",
   "pub_date": "2026-11-09T19:50:11.665Z",
   "platforms": {
     "windows-x86_64": {

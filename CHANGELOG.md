@@ -14,10 +14,9 @@
 
 ## 0.1.24 — Desktop — 2026-11-09
 
-### Improved
+### New
 
-- On Mac, Tvaro IPTV Player is now verified by Apple and opens without security warnings
-- Updates install smoothly, without false error messages
+- Tvaro IPTV Player is now available as an Apple-verified app for Mac
 
 ### Fixed
 
@@ -45,10 +44,9 @@
 
 ## 0.1.17 — TV Manager — 2026-11-09
 
-### Improved
+### New
 
-- On Mac, Tvaro TV Manager is now verified by Apple and opens without security warnings
-- Updates install smoothly, without false error messages
+- Tvaro TV Manager is now available as an Apple-verified app for Mac
 
 ### Fixed
 
