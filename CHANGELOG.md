@@ -33,15 +33,15 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.26 — LG TV — 2026-11-07
+## 0.1.27 — LG TV — 2026-11-09
 
-### New
+### Improved
 
-- Every movie and show now has clean artwork, even without a picture from your provider
+- Moving around Home, Live TV, Movies and Series is faster and smoother
+- Switching between sections is quicker
 
 ### Fixed
 
-- Enter your PIN with your remote's number buttons or your keyboard
 - Bug fixes and performance improvements
 
 ## 0.1.15 — TV Manager — 2026-11-07
