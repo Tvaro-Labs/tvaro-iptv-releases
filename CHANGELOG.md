@@ -22,12 +22,12 @@
 - Enter your PIN with your remote's number buttons or your keyboard
 - Bug fixes and performance improvements
 
-## 0.1.27 — Samsung TV — 2026-11-09
+## 0.1.28 — Samsung TV — 2026-11-09
 
 ### Improved
 
-- Moving around Home, Live TV, Movies and Series is faster and smoother
-- Switching between sections is quicker
+- Opens faster and stays responsive while your lists load
+- Uses less memory with large playlists and TV guides
 
 ### Fixed
 
