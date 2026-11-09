@@ -53,9 +53,14 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.16 — TV Manager for Android — 2026-11-07
+## 0.1.17 — TV Manager for Android — 2026-11-09
 
 ### Improved
 
-- A cleaner, simpler Home screen
+- Tells you clearly when an LG TV is too old for Tvaro IPTV Player
+- More reliable updates for Tvaro IPTV Player on your TVs
+- Keeps working smoothly when you change text size or language
+
+### Fixed
+
 - Bug fixes and performance improvements
