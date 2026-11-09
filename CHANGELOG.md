@@ -22,12 +22,11 @@
 - Enter your PIN with your remote's number buttons or your keyboard
 - Bug fixes and performance improvements
 
-## 0.1.28 — Samsung TV — 2026-11-09
+## 0.1.29 — Samsung TV — 2026-11-09
 
 ### Improved
 
-- Opens faster and stays responsive while your lists load
-- Uses less memory with large playlists and TV guides
+- Search shows results even when part of your library is still loading, with a quick way to try again
 
 ### Fixed
 
