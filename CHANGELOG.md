@@ -33,12 +33,13 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.27 — LG TV — 2026-11-09
+## 0.1.28 — LG TV — 2026-11-09
 
 ### Improved
 
-- Moving around Home, Live TV, Movies and Series is faster and smoother
-- Switching between sections is quicker
+- Opens faster and stays responsive while your lists load
+- Uses less memory with large playlists and TV guides
+- Your remote and Magic Remote pointer work smoothly on the home screen
 
 ### Fixed
 
