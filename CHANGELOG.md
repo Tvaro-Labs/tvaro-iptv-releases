@@ -12,15 +12,15 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.22 — Desktop — 2026-11-07
+## 0.1.23 — Desktop — 2026-11-09
 
-### New
+### Improved
 
-- Every movie and show now has clean artwork, even without a picture from your provider
+- Starts faster and uses less memory with large playlists and TV guides
+- Shows what loaded even when part of your library could not, with a quick way to try again
 
 ### Fixed
 
-- Enter your PIN with your remote's number buttons or your keyboard
 - Bug fixes and performance improvements
 
 ## 0.1.29 — Samsung TV — 2026-11-09
