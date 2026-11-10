@@ -34,17 +34,12 @@
 - Sending a problem report no longer closes the app
 - Bug fixes and performance improvements
 
-## 0.1.30 — LG TV — 2026-11-10
-
-### Improved
-
-- Home, Movies, Series and the TV Guide open faster and stay smooth as you move around, even with very large libraries
-- The Home picture changes the moment you pick a title, and changing channels starts right away
+## 0.1.31 — LG TV — 2026-11-10
 
 ### Fixed
 
-- The mini player and the guide preview show the picture again, always in full, and are easier to reach with the remote
-- More channels play that used to stop with an error
+- Opens quickly and runs smoothly with very large libraries
+- Sending a problem report no longer closes the app
 - Bug fixes and performance improvements
 
 ## 0.1.17 — TV Manager — 2026-11-09
