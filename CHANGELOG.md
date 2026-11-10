@@ -26,16 +26,12 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.30 — Samsung TV — 2026-11-10
-
-### Improved
-
-- Home, Movies, Series and the TV Guide open faster and stay smooth as you move around, even with very large libraries
-- The Home picture changes the moment you pick a title, and changing channels starts right away
+## 0.1.31 — Samsung TV — 2026-11-10
 
 ### Fixed
 
-- The mini player always shows the whole picture and is easier to reach with the remote
+- Opens quickly and runs smoothly with very large libraries
+- Sending a problem report no longer closes the app
 - Bug fixes and performance improvements
 
 ## 0.1.30 — LG TV — 2026-11-10
