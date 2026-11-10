@@ -52,10 +52,9 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.20 — TV Manager for Android — 2026-11-10
+## 0.1.21 — TV Manager for Android — 2026-11-10
 
 ### Fixed
 
-- TV Manager installs on Android phones again without being blocked
-- Android TVs show a simple way to install: the Downloader app on the TV, or TV Manager on a computer
+- Installs on Android phones without being flagged
 - Bug fixes and performance improvements
