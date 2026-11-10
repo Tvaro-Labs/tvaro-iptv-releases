@@ -16,14 +16,16 @@
 - The mini player always shows the whole picture and is easier to reach with the remote
 - Bug fixes and performance improvements
 
-## 0.1.24 — Desktop — 2026-11-09
+## 0.1.25 — Desktop — 2026-11-10
 
-### New
+### Improved
 
-- Tvaro IPTV Player is now available as an Apple-verified app for Mac
+- Large libraries load faster, use less data and refresh in the background without interrupting you
+- Home shows the picture for a title as soon as you pick it, and changing channels starts right away
 
 ### Fixed
 
+- The mini player always shows the whole picture
 - Bug fixes and performance improvements
 
 ## 0.1.31 — Samsung TV — 2026-11-10
