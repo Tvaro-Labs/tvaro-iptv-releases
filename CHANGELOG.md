@@ -61,11 +61,12 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.18 — TV Manager for Android — 2026-11-10
+## 0.1.19 — TV Manager for Android — 2026-11-10
 
 ### Improved
 
-- Installs Tvaro IPTV Player on Android TV and Fire TV faster
+- Your TVs stay in the list even when they're off, and you can update a saved TV in one tap without searching again
+- Tapping an update notification takes you straight to the TV that needs it
 
 ### Fixed
 
