@@ -56,13 +56,10 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.19 — TV Manager for Android — 2026-11-10
-
-### Improved
-
-- Your TVs stay in the list even when they're off, and you can update a saved TV in one tap without searching again
-- Tapping an update notification takes you straight to the TV that needs it
+## 0.1.20 — TV Manager for Android — 2026-11-10
 
 ### Fixed
 
+- TV Manager installs on Android phones again without being blocked
+- Android TVs show a simple way to install: the Downloader app on the TV, or TV Manager on a computer
 - Bug fixes and performance improvements
