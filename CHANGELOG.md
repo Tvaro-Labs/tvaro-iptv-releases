@@ -28,12 +28,16 @@
 - The mini player always shows the whole picture
 - Bug fixes and performance improvements
 
-## 0.1.31 — Samsung TV — 2026-11-10
+## 0.1.32 — Samsung TV — 2026-11-10
+
+### Improved
+
+- Every episode, movie and series shows artwork, even when a picture is missing or will not load
+- The top picture on the home screen blends smoothly into the page
+- The remote support screen is tidier and easier to read
 
 ### Fixed
 
-- Opens quickly and runs smoothly with very large libraries
-- Sending a problem report no longer closes the app
 - Bug fixes and performance improvements
 
 ## 0.1.32 — LG TV — 2026-11-10
