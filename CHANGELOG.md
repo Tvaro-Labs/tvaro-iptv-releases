@@ -1,15 +1,19 @@
 # Tvaro IPTV Player changelog
 
-## 0.1.25 — Android — 2026-11-09
+## 0.1.26 — Android — 2026-11-10
+
+### New
+
+- Control playback from headphones, Google Assistant and your phone's media controls
 
 ### Improved
 
-- Starts faster and stays responsive while your lists load
-- Picks up right where you left off and keeps your audio and subtitle choices
-- Shows what loaded even when part of your library could not, with a quick way to try again
+- Large libraries load faster, use less data and refresh in the background without interrupting you
+- Home, Movies, Series and the TV Guide respond faster on Android TV and Fire TV
 
 ### Fixed
 
+- The mini player always shows the whole picture and is easier to reach with the remote
 - Bug fixes and performance improvements
 
 ## 0.1.24 — Desktop — 2026-11-09
