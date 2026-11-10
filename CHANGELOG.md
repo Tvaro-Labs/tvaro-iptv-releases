@@ -48,13 +48,7 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.18 — TV Manager — 2026-11-10
-
-### Improved
-
-- Your TVs stay in the list even when they're off, and you can update a saved TV in one click without searching again
-- Shows when a TV is off and when an update is ready, as soon as you open the app
-- Finds your Samsung TV faster on computers with virtual network adapters
+## 0.1.19 — TV Manager — 2026-11-10
 
 ### Fixed
 
