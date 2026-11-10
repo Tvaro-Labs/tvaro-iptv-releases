@@ -44,11 +44,13 @@
 - Sending a problem report no longer closes the app
 - Bug fixes and performance improvements
 
-## 0.1.17 — TV Manager — 2026-11-09
+## 0.1.18 — TV Manager — 2026-11-10
 
-### New
+### Improved
 
-- Tvaro TV Manager is now available as an Apple-verified app for Mac
+- Your TVs stay in the list even when they're off, and you can update a saved TV in one click without searching again
+- Shows when a TV is off and when an update is ready, as soon as you open the app
+- Finds your Samsung TV faster on computers with virtual network adapters
 
 ### Fixed
 
