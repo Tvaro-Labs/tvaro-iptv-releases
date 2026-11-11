@@ -1,14 +1,10 @@
 # Tvaro IPTV Player changelog
 
-## 0.1.30 — Android — 2026-11-11
-
-### Improved
-
-- Screen readers now read out the item you are on, guide programmes and playback status
-- Switching between accounts is quicker
+## 0.1.31 — Android — 2026-11-11
 
 ### Fixed
 
+- Buttons and fields at the bottom of a screen now come fully into view as you move to them
 - Bug fixes and performance improvements
 
 ## 0.1.29 — Desktop — 2026-11-11
