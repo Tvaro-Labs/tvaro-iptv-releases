@@ -30,11 +30,12 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.34 — LG TV — 2026-11-11
+## 0.1.35 — LG TV — 2026-11-11
 
 ### Improved
 
-- The top picture on the home screen now blends smoothly into the rows below
+- Screen readers now read out the item you are on, guide programmes and playback status
+- Switching between accounts is quicker
 
 ### Fixed
 
