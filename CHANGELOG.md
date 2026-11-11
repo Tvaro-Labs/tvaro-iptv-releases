@@ -1,6 +1,6 @@
 # Tvaro IPTV Player changelog
 
-## 0.1.32 — Android — 2026-11-11
+## 0.1.33 — Android — 2026-11-11
 
 ### Fixed
 
