@@ -11,11 +11,12 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.28 — Desktop — 2026-11-11
+## 0.1.29 — Desktop — 2026-11-11
 
 ### Improved
 
-- The private connection option has a shorter, clearer name
+- Screen readers now read out the item you are on, guide programmes and playback status
+- Switching between accounts is quicker
 
 ### Fixed
 
