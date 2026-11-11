@@ -33,15 +33,11 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.35 — LG TV — 2026-11-11
-
-### Improved
-
-- Screen readers now read out the item you are on, guide programmes and playback status
-- Switching between accounts is quicker
+## 0.1.36 — LG TV — 2026-11-11
 
 ### Fixed
 
+- Buttons and fields at the bottom of a screen now come fully into view as you move to them
 - Bug fixes and performance improvements
 
 ## 0.1.21 — TV Manager — 2026-11-11
