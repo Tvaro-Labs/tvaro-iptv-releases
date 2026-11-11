@@ -1,10 +1,9 @@
 # Tvaro IPTV Player changelog
 
-## 0.1.31 — Android — 2026-11-11
+## 0.1.32 — Android — 2026-11-11
 
 ### Fixed
 
-- Buttons and fields at the bottom of a screen now come fully into view as you move to them
 - Bug fixes and performance improvements
 
 ## 0.1.30 — Desktop — 2026-11-11
