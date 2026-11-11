@@ -41,12 +41,11 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.33 — LG TV — 2026-11-11
+## 0.1.34 — LG TV — 2026-11-11
 
 ### Improved
 
-- Titles without a picture now show a clean card with their name instead of an empty tile
-- The first row on the home screen sits right below the top picture
+- The top picture on the home screen now blends smoothly into the rows below
 
 ### Fixed
 
