@@ -56,7 +56,7 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.22 — TV Manager for Android — 2026-11-11
+## 0.1.23 — TV Manager for Android — 2026-11-11
 
 ### Fixed
 
