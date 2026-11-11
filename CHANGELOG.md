@@ -34,13 +34,12 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.32 — LG TV — 2026-11-10
+## 0.1.33 — LG TV — 2026-11-11
 
 ### Improved
 
-- Every episode, movie and series shows artwork, even when a picture is missing or will not load
-- The top picture on the home screen blends smoothly into the page
-- The remote support screen is tidier and easier to read
+- Titles without a picture now show a clean card with their name instead of an empty tile
+- The first row on the home screen sits right below the top picture
 
 ### Fixed
 
