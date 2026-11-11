@@ -1,12 +1,15 @@
 # Tvaro IPTV Player changelog
 
-## 0.1.27 — Android — 2026-11-10
+## 0.1.28 — Android — 2026-11-11
+
+### New
+
+- Private connection: send your playlists and streams through your own WireGuard VPN, with nothing else on your device changed
 
 ### Improved
 
-- Every episode, movie and series shows artwork, even when a picture is missing or will not load
-- The top picture on the home screen blends smoothly into the page
-- The remote support screen is tidier and easier to read
+- Titles without a picture now show a clean card with their name instead of an empty tile
+- The first row on the home screen sits right below the top picture
 
 ### Fixed
 
