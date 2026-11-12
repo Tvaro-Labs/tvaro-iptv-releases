@@ -48,12 +48,7 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.24 — TV Manager for Android — 2026-11-11
-
-### Improved
-
-- Finding your TV is lighter on your Wi-Fi
-- Tvaro IPTV Player now downloads through your browser
+## 0.1.25 — TV Manager for Android — 2026-11-12
 
 ### Fixed
 
