@@ -16,15 +16,16 @@
 
 - Opening Tvaro again brings back the window you already have open
 
-## 0.1.38 — Samsung TV — 2026-11-12
+## 0.1.39 — Samsung TV — 2026-11-12
 
 ### New
 
-- Jump to the previous or next episode right from the player
+- Rename channels to the names you prefer
+- Add a playlist from a USB drive
+- More picture sizes, including stretch
 
 ### Fixed
 
-- The Tvaro icon shows again on your TV home screen
 - Bug fixes and performance improvements
 
 ## 0.1.39 — LG TV — 2026-11-12
