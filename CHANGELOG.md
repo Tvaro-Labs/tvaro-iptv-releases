@@ -6,15 +6,15 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.32 — Desktop — 2026-11-12
+## 0.1.33 — Desktop — 2026-11-12
+
+### New
+
+- Jump to the previous or next episode right from the player
 
 ### Improved
 
-- Installing and updating Tvaro on Windows is now a much smaller download
-
-### Fixed
-
-- Bug fixes and performance improvements
+- Opening Tvaro again brings back the window you already have open
 
 ## 0.1.38 — Samsung TV — 2026-11-12
 
