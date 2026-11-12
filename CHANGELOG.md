@@ -50,11 +50,11 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.22 — TV Manager — 2026-11-12
+## 0.1.23 — TV Manager — 2026-11-12
 
 ### Improved
 
-- Opening Tvaro TV Manager again brings back the window you already have open
+- The status bar shows your version and when an update is ready
 
 ### Fixed
 
