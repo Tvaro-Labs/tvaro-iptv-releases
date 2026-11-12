@@ -8,5 +8,6 @@ Unmodified LGPL builds of libmpv used by the Tvaro IPTV desktop app on Windows, 
 |---|---|
 | mpv-dev-lgpl-x86_64-20261030-git-8e5a96fc45.7z | 35d45ddb36b978761a38abac6c7635bdb182aa49e6f36e9785df9525c24ea3b1 |
 | mpv-dev-lgpl-aarch64-20261030-git-8e5a96fc45.7z | bc855bef7fa076c2c397dd66401bb6d5f38dd49d670d9522b0092ef4a353144d |
+| libmpv-2-b195622f9809.dll.xz | 775aed5bf0e4b566aa3f663fb0c9c575044e0ae47952282895963d982c48fb1e |
 
 libmpv is licensed under the GNU LGPL 2.1 (see LICENSE.LGPL.txt). Source: https://github.com/mpv-player/mpv
