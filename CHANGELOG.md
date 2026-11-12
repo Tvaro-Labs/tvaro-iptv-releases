@@ -6,11 +6,14 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.30 — Desktop — 2026-11-11
+## 0.1.31 — Desktop — 2026-11-12
+
+### New
+
+- On Linux, Tvaro can now add the video support your computer needs, so videos play without extra setup
 
 ### Fixed
 
-- Buttons and fields at the bottom of a screen now come fully into view as you move to them
 - Bug fixes and performance improvements
 
 ## 0.1.36 — Samsung TV — 2026-11-11
