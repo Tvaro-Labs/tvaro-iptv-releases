@@ -27,15 +27,16 @@
 - The Tvaro icon shows again on your TV home screen
 - Bug fixes and performance improvements
 
-## 0.1.37 — LG TV — 2026-11-12
+## 0.1.38 — LG TV — 2026-11-12
 
-### Improved
+### New
 
-- Subtitles from your provider can now be chosen from the playback options
-- Smoother on TVs with little storage space, keeping your settings and progress safe
+- Jump to the previous or next episode right from the player
+- Choose the subtitles that come with your movies and episodes
 
 ### Fixed
 
+- The Tvaro icon shows again on your TV home screen
 - Bug fixes and performance improvements
 
 ## 0.1.21 — TV Manager — 2026-11-11
