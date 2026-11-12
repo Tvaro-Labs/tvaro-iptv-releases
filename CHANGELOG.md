@@ -6,11 +6,11 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.31 — Desktop — 2026-11-12
+## 0.1.32 — Desktop — 2026-11-12
 
-### New
+### Improved
 
-- On Linux, Tvaro can now add the video support your computer needs, so videos play without extra setup
+- Installing and updating Tvaro on Windows is now a much smaller download
 
 ### Fixed
 
