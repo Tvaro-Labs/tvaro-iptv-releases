@@ -39,7 +39,11 @@
 - The Tvaro icon shows again on your TV home screen
 - Bug fixes and performance improvements
 
-## 0.1.21 — TV Manager — 2026-11-11
+## 0.1.22 — TV Manager — 2026-11-12
+
+### Improved
+
+- Opening Tvaro TV Manager again brings back the window you already have open
 
 ### Fixed
 
