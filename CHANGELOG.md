@@ -40,14 +40,20 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.39 — LG TV — 2026-11-12
+## 0.1.40 — LG TV — 2026-11-13
 
 ### New
 
-- Rename channels to the names you prefer
+- A fresh welcome screen
+
+### Improved
+
+- Channel up and down stay in the list you opened, like your favourites
+- Skipping forward and back is quicker and steadier
 
 ### Fixed
 
+- Picture size options now change the picture
 - Bug fixes and performance improvements
 
 ## 0.1.23 — TV Manager — 2026-11-12
