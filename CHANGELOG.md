@@ -16,13 +16,17 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.34 — Desktop — 2026-11-12
+## 0.1.35 — Desktop — 2026-11-13
 
 ### New
 
-- Rename channels to the names you prefer
-- Add a playlist from a file
-- Pick the video quality and more picture sizes, like stretch and zoom
+- See the time and a preview of the scene as you move along the progress bar
+- A fresh welcome screen
+
+### Improved
+
+- Skipping forward and back is quicker and steadier
+- Channel up and down stay in the list you opened, like your favourites
 
 ### Fixed
 
