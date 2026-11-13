@@ -1,16 +1,16 @@
 # Tvaro IPTV Player changelog
 
-## 0.1.34 — Android — 2026-11-12
+## 0.1.35 — Android — 2026-11-13
 
 ### New
 
-- Rename channels to the names you prefer
-- Add a playlist from a file on your phone
-- Pick the video quality and more picture sizes, like stretch and zoom
+- See the time as you move along the progress bar
+- A fresh welcome screen
 
 ### Improved
 
-- Playback options are simpler, with each setting on its own page
+- Clearer forms that show what to fix as you type
+- Channel up and down stay in the list you opened, like your favourites
 
 ### Fixed
 
