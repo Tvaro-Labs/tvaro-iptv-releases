@@ -74,7 +74,12 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.25 — TV Manager for Android — 2026-11-12
+## 0.1.26 — TV Manager for Android — 2026-11-13
+
+### Improved
+
+- TVs that are off show a clear status with a quick way to check again
+- Clearer forms that show what to fix as you type
 
 ### Fixed
 
