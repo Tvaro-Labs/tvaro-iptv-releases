@@ -64,11 +64,12 @@
 - Picture size options now change the picture
 - Bug fixes and performance improvements
 
-## 0.1.23 — TV Manager — 2026-11-12
+## 0.1.24 — TV Manager — 2026-11-13
 
 ### Improved
 
-- The status bar shows your version and when an update is ready
+- TVs that are off show a clear status with a quick way to check again
+- Clearer forms that show what to fix as you type
 
 ### Fixed
 
