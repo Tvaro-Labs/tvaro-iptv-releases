@@ -1,16 +1,10 @@
 # Tvaro IPTV Player changelog
 
-## 0.1.35 — Android — 2026-11-13
+## 0.1.36 — Android — 2026-11-14
 
 ### New
 
-- See the time as you move along the progress bar
-- A fresh welcome screen
-
-### Improved
-
-- Clearer forms that show what to fix as you type
-- Channel up and down stay in the list you opened, like your favourites
+- A Performance choice in Settings, to pick smoother browsing or full effects
 
 ### Fixed
 
