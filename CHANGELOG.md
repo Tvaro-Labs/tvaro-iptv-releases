@@ -10,20 +10,15 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.35 — Desktop — 2026-11-13
+## 0.1.36 — Desktop — 2026-11-14
 
 ### New
 
-- See the time and a preview of the scene as you move along the progress bar
-- A fresh welcome screen
-
-### Improved
-
-- Skipping forward and back is quicker and steadier
-- Channel up and down stay in the list you opened, like your favourites
+- A Performance choice in Settings, to pick smoother browsing or full effects
 
 ### Fixed
 
+- One press of Escape now leaves the player
 - Bug fixes and performance improvements
 
 ## 0.1.41 — Samsung TV — 2026-11-14
