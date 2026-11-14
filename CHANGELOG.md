@@ -48,20 +48,19 @@
 - Picture size options now change the picture
 - Bug fixes and performance improvements
 
-## 0.1.40 — LG TV — 2026-11-13
+## 0.1.41 — LG TV — 2026-11-14
 
 ### New
 
-- A fresh welcome screen
+- A Performance choice in Settings, to pick smoother browsing or full effects
 
 ### Improved
 
-- Channel up and down stay in the list you opened, like your favourites
-- Skipping forward and back is quicker and steadier
+- Smoother, steadier browsing, especially on older TVs
+- Spoken focus now follows your TV's Audio Guidance setting
 
 ### Fixed
 
-- Picture size options now change the picture
 - Bug fixes and performance improvements
 
 ## 0.1.24 — TV Manager — 2026-11-13
