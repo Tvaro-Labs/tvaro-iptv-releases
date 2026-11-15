@@ -15,15 +15,15 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.36 — Desktop — 2026-11-14
+## 0.1.37 — Desktop — 2026-11-15
 
-### New
+### Improved
 
-- A Performance choice in Settings, to pick smoother browsing or full effects
+- Easier proxy setup: pick the type, then enter the server and port
+- In Arabic, playback controls now follow the reading direction
 
 ### Fixed
 
-- One press of Escape now leaves the player
 - Bug fixes and performance improvements
 
 ## 0.1.42 — Samsung TV — 2026-11-15
