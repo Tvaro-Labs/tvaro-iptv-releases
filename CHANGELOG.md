@@ -15,12 +15,13 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.37 — Desktop — 2026-11-15
+## 0.1.38 — Desktop — 2026-11-15
 
 ### Improved
 
-- Easier proxy setup: pick the type, then enter the server and port
-- In Arabic, playback controls now follow the reading direction
+- On Linux, video support installs after one password prompt, then Tvaro restarts on its own
+- Tvaro shows up in the Linux app menu right after installing
+- Live channels and videos play more smoothly on Linux
 
 ### Fixed
 
