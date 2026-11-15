@@ -1,10 +1,15 @@
 # Tvaro IPTV Player changelog
 
-## 0.1.36 — Android — 2026-11-14
+## 0.1.37 — Android — 2026-11-15
 
 ### New
 
-- A Performance choice in Settings, to pick smoother browsing or full effects
+- Browse every category from a side list on phones
+
+### Improved
+
+- Easier proxy setup: pick the type, then enter the server and port
+- In Arabic, playback controls now follow the reading direction
 
 ### Fixed
 
