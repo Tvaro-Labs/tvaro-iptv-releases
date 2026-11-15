@@ -36,16 +36,11 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.41 — LG TV — 2026-11-14
-
-### New
-
-- A Performance choice in Settings, to pick smoother browsing or full effects
+## 0.1.42 — LG TV — 2026-11-15
 
 ### Improved
 
-- Smoother, steadier browsing, especially on older TVs
-- Spoken focus now follows your TV's Audio Guidance setting
+- In Arabic, playback controls now follow the reading direction
 
 ### Fixed
 
