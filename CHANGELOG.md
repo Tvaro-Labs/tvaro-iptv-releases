@@ -21,16 +21,11 @@
 - One press of Escape now leaves the player
 - Bug fixes and performance improvements
 
-## 0.1.41 — Samsung TV — 2026-11-14
-
-### New
-
-- A Performance choice in Settings, to pick smoother browsing or full effects
+## 0.1.42 — Samsung TV — 2026-11-15
 
 ### Improved
 
-- Smoother, steadier browsing, especially on older TVs
-- Spoken focus now follows your TV's Voice Guide setting
+- In Arabic, playback controls now follow the reading direction
 
 ### Fixed
 
