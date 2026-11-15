@@ -15,13 +15,11 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.38 — Desktop — 2026-11-15
+## 0.1.39 — Desktop — 2026-11-15
 
 ### Improved
 
-- On Linux, video support installs after one password prompt, then Tvaro restarts on its own
-- Tvaro shows up in the Linux app menu right after installing
-- Live channels and videos play more smoothly on Linux
+- Update notes now list only the changes for your system
 
 ### Fixed
 
