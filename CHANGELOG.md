@@ -15,14 +15,18 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.39 — Desktop — 2026-11-15
+## 0.1.40 — Desktop — 2026-11-15
 
 ### Improved
 
-- Update notes now list only the changes for your system
+- Sending a problem report looks tidier, with Refresh next to the details it updates
+- The last row of every Settings page now scrolls fully into view
+- Film credits are tidier in Settings
+- The pointer turns into a hand only over things you can click
 
 ### Fixed
 
+- [Linux] Videos no longer replay the same scene over and over after a playback error
 - Bug fixes and performance improvements
 
 ## 0.1.42 — Samsung TV — 2026-11-15
