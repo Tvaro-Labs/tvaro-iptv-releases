@@ -18,18 +18,22 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.40 — Desktop — 2026-11-15
+## 0.1.41 — Desktop — 2026-11-17
+
+### New
+
+- Watch up to four live channels at once with Multiview
+- Data saver, a quality choice in the player and a count of data used
+- Previews play behind movie and series titles
 
 ### Improved
 
-- Sending a problem report looks tidier, with Refresh next to the details it updates
-- The last row of every Settings page now scrolls fully into view
-- Film credits are tidier in Settings
-- The pointer turns into a hand only over things you can click
+- [Windows] Scene pictures while you drag the seek bar
+- Cleaner episode names and more details for each channel
+- [Linux] Live channels play more smoothly
 
 ### Fixed
 
-- [Linux] Videos no longer replay the same scene over and over after a playback error
 - Bug fixes and performance improvements
 
 ## 0.1.43 — Samsung TV — 2026-11-17
