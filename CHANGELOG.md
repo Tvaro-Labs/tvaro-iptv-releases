@@ -29,11 +29,17 @@
 - [Linux] Videos no longer replay the same scene over and over after a playback error
 - Bug fixes and performance improvements
 
-## 0.1.42 — Samsung TV — 2026-11-15
+## 0.1.43 — Samsung TV — 2026-11-17
+
+### New
+
+- Data saver helps you use less data
+- Add a single stream link as a playlist
 
 ### Improved
 
-- In Arabic, playback controls now follow the reading direction
+- Cleaner episode names and more details for each channel
+- More Like This now sits below the episodes on series pages
 
 ### Fixed
 
