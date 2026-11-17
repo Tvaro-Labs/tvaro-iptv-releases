@@ -46,17 +46,16 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.43 — LG TV — 2026-11-17
+## 0.1.44 — LG TV — 2026-11-17
 
 ### New
 
-- Data saver, and a quality choice for channels that offer several
-- Previews play behind movie and series titles
+- A Favorites row on Home with your favourite films and series
 
 ### Improved
 
-- Cleaner episode names and more details for each channel
-- More Like This now sits below the episodes on series pages
+- Switching between sections is faster
+- Titles without artwork get a coloured card with their type and year
 
 ### Fixed
 
