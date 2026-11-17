@@ -64,12 +64,12 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.24 — TV Manager — 2026-11-13
+## 0.1.25 — TV Manager — 2026-11-17
 
 ### Improved
 
-- TVs that are off show a clear status with a quick way to check again
-- Clearer forms that show what to fix as you type
+- In Arabic, TV details and numbers now read in the right order
+- On Linux, the app icon shows up right after installing
 
 ### Fixed
 
