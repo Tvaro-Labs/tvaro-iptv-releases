@@ -31,17 +31,16 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.43 — Samsung TV — 2026-11-17
+## 0.1.44 — Samsung TV — 2026-11-17
 
 ### New
 
-- Data saver helps you use less data
-- Add a single stream link as a playlist
+- A Favorites row on Home with your favourite films and series
 
 ### Improved
 
-- Cleaner episode names and more details for each channel
-- More Like This now sits below the episodes on series pages
+- Switching between sections is faster
+- Titles without artwork get a coloured card with their type and year
 
 ### Fixed
 
