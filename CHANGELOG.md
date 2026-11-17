@@ -1,15 +1,18 @@
 # Tvaro IPTV Player changelog
 
-## 0.1.37 — Android — 2026-11-15
+## 0.1.38 — Android — 2026-11-17
 
 ### New
 
-- Browse every category from a side list on phones
+- Data saver, a quality choice in the player and a count of data used
+- Scene pictures while you drag the seek bar on phones
+- Add a single stream link as a playlist
 
 ### Improved
 
-- Easier proxy setup: pick the type, then enter the server and port
-- In Arabic, playback controls now follow the reading direction
+- Home banner previews start faster and have a sound button
+- Titles without artwork now show a picture from the video
+- Cleaner episode names and more details for each channel
 
 ### Fixed
 
