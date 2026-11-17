@@ -39,11 +39,17 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.42 — LG TV — 2026-11-15
+## 0.1.43 — LG TV — 2026-11-17
+
+### New
+
+- Data saver, and a quality choice for channels that offer several
+- Previews play behind movie and series titles
 
 ### Improved
 
-- In Arabic, playback controls now follow the reading direction
+- Cleaner episode names and more details for each channel
+- More Like This now sits below the episodes on series pages
 
 ### Fixed
 
