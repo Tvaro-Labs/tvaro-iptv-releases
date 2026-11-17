@@ -1,18 +1,16 @@
 # Tvaro IPTV Player changelog
 
-## 0.1.38 — Android — 2026-11-17
+## 0.1.39 — Android — 2026-11-17
 
 ### New
 
-- Data saver, a quality choice in the player and a count of data used
-- Scene pictures while you drag the seek bar on phones
-- Add a single stream link as a playlist
+- A Favorites row on Home with your favourite films and series
+- Scene pictures while you drag the seek bar, now on Android TV too
 
 ### Improved
 
-- Home banner previews start faster and have a sound button
-- Titles without artwork now show a picture from the video
-- Cleaner episode names and more details for each channel
+- Smoother scrolling through long lists
+- Menu, Info, Guide and colour keys now work on Fire TV and Android TV remotes
 
 ### Fixed
 
