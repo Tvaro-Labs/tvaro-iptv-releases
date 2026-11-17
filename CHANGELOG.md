@@ -18,19 +18,16 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.41 — Desktop — 2026-11-17
+## 0.1.42 — Desktop — 2026-11-17
 
 ### New
 
-- Watch up to four live channels at once with Multiview
-- Data saver, a quality choice in the player and a count of data used
-- Previews play behind movie and series titles
+- A Favorites row on Home with your favourite films and series
 
 ### Improved
 
-- [Windows] Scene pictures while you drag the seek bar
-- Cleaner episode names and more details for each channel
-- [Linux] Live channels play more smoothly
+- Arrow keys now reach the very top and bottom of every list
+- Titles without artwork get a coloured card with their type and year
 
 ### Fixed
 
