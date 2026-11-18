@@ -14,16 +14,11 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.42 — Desktop — 2026-11-17
-
-### New
-
-- A Favorites row on Home with your favourite films and series
+## 0.1.43 — Desktop — 2026-11-18
 
 ### Improved
 
-- Arrow keys now reach the very top and bottom of every list
-- Titles without artwork get a coloured card with their type and year
+- Clearer, easier-to-read messages when something needs your attention
 
 ### Fixed
 
