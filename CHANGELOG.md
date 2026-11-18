@@ -62,11 +62,7 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.27 — TV Manager for Android — 2026-11-17
-
-### Improved
-
-- In Arabic, TV details and numbers now read in the right order
+## 0.1.28 — TV Manager for Android — 2026-11-18
 
 ### Fixed
 
