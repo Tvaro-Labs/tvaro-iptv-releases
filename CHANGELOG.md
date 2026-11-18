@@ -49,12 +49,7 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.25 — TV Manager — 2026-11-17
-
-### Improved
-
-- In Arabic, TV details and numbers now read in the right order
-- On Linux, the app icon shows up right after installing
+## 0.1.26 — TV Manager — 2026-11-18
 
 ### Fixed
 
