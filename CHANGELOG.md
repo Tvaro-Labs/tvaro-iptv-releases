@@ -1,16 +1,14 @@
 # Tvaro IPTV Player changelog
 
-## 0.1.39 — Android — 2026-11-17
+## 0.1.40 — Android — 2026-11-18
 
 ### New
 
-- A Favorites row on Home with your favourite films and series
-- Scene pictures while you drag the seek bar, now on Android TV too
+- Sign a TV in with one of your accounts, right from the Accounts screen
 
 ### Improved
 
-- Smoother scrolling through long lists
-- Menu, Info, Guide and colour keys now work on Fire TV and Android TV remotes
+- Clearer, easier-to-read messages when something needs your attention
 
 ### Fixed
 
