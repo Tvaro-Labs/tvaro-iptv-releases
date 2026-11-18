@@ -46,16 +46,11 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.44 — LG TV — 2026-11-17
-
-### New
-
-- A Favorites row on Home with your favourite films and series
+## 0.1.45 — LG TV — 2026-11-18
 
 ### Improved
 
-- Switching between sections is faster
-- Titles without artwork get a coloured card with their type and year
+- Clearer, easier-to-read messages when something needs your attention
 
 ### Fixed
 
