@@ -1,14 +1,17 @@
 # Tvaro IPTV Player changelog
 
-## 0.1.40 — Android — 2026-11-18
+## 0.1.41 — Android — 2026-11-19
 
 ### New
 
-- Sign a TV in with one of your accounts, right from the Accounts screen
+- Play on TV: send what you're watching to the TV in your home
+- See the picture move as you drag through a film or episode
 
 ### Improved
 
-- Clearer, easier-to-read messages when something needs your attention
+- The guide fills in faster
+- Faster search, from the first letter or a channel number
+- A fresh look for the welcome screen
 
 ### Fixed
 
