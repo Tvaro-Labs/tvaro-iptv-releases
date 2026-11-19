@@ -34,11 +34,17 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.45 — LG TV — 2026-11-18
+## 0.1.46 — LG TV — 2026-11-19
+
+### New
+
+- See the picture move as you skip through a film or episode
 
 ### Improved
 
-- Clearer, easier-to-read messages when something needs your attention
+- The guide fills in faster
+- Faster search, from the first letter or a channel number
+- A fresh look for the welcome screen
 
 ### Fixed
 
