@@ -17,11 +17,18 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.43 — Desktop — 2026-11-18
+## 0.1.44 — Desktop — 2026-11-19
+
+### New
+
+- Play on TV: send what you're watching to the TV in your home
+- See the picture move as you drag through a film or episode
 
 ### Improved
 
-- Clearer, easier-to-read messages when something needs your attention
+- The guide fills in faster
+- Faster search, from the first letter or a channel number
+- A fresh look for the welcome screen
 
 ### Fixed
 
