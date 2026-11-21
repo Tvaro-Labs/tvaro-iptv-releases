@@ -1,17 +1,15 @@
 # Tvaro IPTV Player changelog
 
-## 0.1.41 — Android — 2026-11-19
+## 0.1.42 — Android — 2026-11-21
 
 ### New
 
-- Play on TV: send what you're watching to the TV in your home
-- See the picture move as you drag through a film or episode
+- Clearer messages when your connection or service is having trouble
 
 ### Improved
 
-- The guide fills in faster
-- Faster search, from the first letter or a channel number
-- A fresh look for the welcome screen
+- Fire TV: the app tile now shows the full Tvaro logo
+- A cleaner, more consistent look for the player controls
 
 ### Fixed
 
