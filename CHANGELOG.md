@@ -15,16 +15,11 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.45 — Desktop — 2026-11-21
-
-### New
-
-- Clearer messages when your connection or service is having trouble
+## 0.1.46 — Desktop — 2026-11-21
 
 ### Improved
 
-- Smoother scrolling with the mouse wheel and touchpad
-- [Windows] Multiview plays more kinds of channels
+- Holding an arrow key now scrolls movies, series and channels smoothly
 
 ### Fixed
 
