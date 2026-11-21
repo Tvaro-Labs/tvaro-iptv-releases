@@ -15,18 +15,16 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.44 — Desktop — 2026-11-19
+## 0.1.45 — Desktop — 2026-11-21
 
 ### New
 
-- Play on TV: send what you're watching to the TV in your home
-- See the picture move as you drag through a film or episode
+- Clearer messages when your connection or service is having trouble
 
 ### Improved
 
-- The guide fills in faster
-- Faster search, from the first letter or a channel number
-- A fresh look for the welcome screen
+- Smoother scrolling with the mouse wheel and touchpad
+- [Windows] Multiview plays more kinds of channels
 
 ### Fixed
 
