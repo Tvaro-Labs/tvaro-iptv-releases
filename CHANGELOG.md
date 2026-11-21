@@ -64,7 +64,7 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.26 — TV Manager — 2026-11-18
+## 0.1.27 — TV Manager — 2026-11-21
 
 ### Fixed
 
