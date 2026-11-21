@@ -46,17 +46,16 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.46 — LG TV — 2026-11-19
+## 0.1.47 — LG TV — 2026-11-21
 
 ### New
 
-- See the picture move as you skip through a film or episode
+- Clearer messages when your connection or service is having trouble
 
 ### Improved
 
-- The guide fills in faster
-- Faster search, from the first letter or a channel number
-- A fresh look for the welcome screen
+- Smoother browsing and a faster guide on older TVs
+- Holding a remote button now scrolls steadily
 
 ### Fixed
 
