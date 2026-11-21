@@ -1,34 +1,27 @@
 {
-  "version": "0.1.26",
+  "version": "0.1.27",
   "notes": "### Fixed\n\n- Bug fixes and performance improvements",
-  "pub_date": "2026-11-18T12:16:50.941Z",
+  "pub_date": "2026-11-21T18:56:33.670Z",
   "held": {
+    "macos": "0.1.26",
     "linux-appimage": "0.1.25"
   },
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYnhseGVGS2k5aS9JcDNXaGwxdTZFVEoyc09oM1kyYlBBeFdZajRhV3gxejMyZFY2MElqRzFpLzVpaXJpNU9iV0V6c0Q2MnVwK0h5TmVKeU5xRjdsbUFKdUtUS3Q0ZndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDAyOTMyCWZpbGU6VHZhcm8gVFYgSW5zdGFsbGVyXzAuMS4yNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjI2CjN3Z3orSnR1aFhQK2tWdy96c3pjdHcwdnNxeHdjcUhWN1R4TjJzeWNhMkc1K2pEblp1Zk9ITjJHdC9mMHFMbldrV2Z5Tm1ONTdKbVR6ZEE5SE53aEJnPT0K",
-      "url": "https://api.github.com/repos/Tvaro-Labs/tvaro-iptv-releases/releases/assets/763286092"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYnhseGVGS2k5aTF6OXk2eWtoZ0FUamFsd29GR0djdEhsa3BFM0c5U0JJaUxFSDlad2d4L3hzTHRSbkFrRFRyZGVROURUVzg1eUM3RkxFK3dkY3dzUWtaWHFnQU1Xd1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjg2MzQ4CWZpbGU6VHZhcm8gVFYgSW5zdGFsbGVyXzAuMS4yN194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjI3CnhQK3YxVGVkKzZOMWpEM3p4R0F0ZUVLOUdmdk9JYkREdExqVCs2UzFBY05HQStsekdlRjFhVGZGRFVTdkpKQS81cThSMHplZEFuOG10bXhtNUkyNEN3PT0K",
+      "url": "https://api.github.com/repos/Tvaro-Labs/tvaro-iptv-releases/releases/assets/776550867"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYnhseGVGS2k5aS9JcDNXaGwxdTZFVEoyc09oM1kyYlBBeFdZajRhV3gxejMyZFY2MElqRzFpLzVpaXJpNU9iV0V6c0Q2MnVwK0h5TmVKeU5xRjdsbUFKdUtUS3Q0ZndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDAyOTMyCWZpbGU6VHZhcm8gVFYgSW5zdGFsbGVyXzAuMS4yNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjI2CjN3Z3orSnR1aFhQK2tWdy96c3pjdHcwdnNxeHdjcUhWN1R4TjJzeWNhMkc1K2pEblp1Zk9ITjJHdC9mMHFMbldrV2Z5Tm1ONTdKbVR6ZEE5SE53aEJnPT0K",
-      "url": "https://api.github.com/repos/Tvaro-Labs/tvaro-iptv-releases/releases/assets/763286092"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYnhseGVGS2k5aTF6OXk2eWtoZ0FUamFsd29GR0djdEhsa3BFM0c5U0JJaUxFSDlad2d4L3hzTHRSbkFrRFRyZGVROURUVzg1eUM3RkxFK3dkY3dzUWtaWHFnQU1Xd1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjg2MzQ4CWZpbGU6VHZhcm8gVFYgSW5zdGFsbGVyXzAuMS4yN194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjI3CnhQK3YxVGVkKzZOMWpEM3p4R0F0ZUVLOUdmdk9JYkREdExqVCs2UzFBY05HQStsekdlRjFhVGZGRFVTdkpKQS81cThSMHplZEFuOG10bXhtNUkyNEN3PT0K",
+      "url": "https://api.github.com/repos/Tvaro-Labs/tvaro-iptv-releases/releases/assets/776550867"
     },
     "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYnhseGVGS2k5aTJnaUYyRnJ4OGxIM2thWEJMeGpIemttSTFNQWZQbWpxdU1kbVVxdnJLOStzcWZXRklmbUpJUFlBbEo0dHUyTHNkaUlWZ3JIUjYya01lQisyZ3IyTVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDAzMDkxCWZpbGU6VHZhcm8gVFYgSW5zdGFsbGVyXzAuMS4yNl9hbWQ2NC5kZWIJdmVyc2lvbjowLjEuMjYKUDc2RG1vUzlzeUREVitjaDh4R2dHTFFRb0pzTnNZWjVTQUpmSGRiamIwSUErV0h5M1VoSzROZEs0cXhOdzlYNEdyaFFYdXhWK3R5R1d3dW9BS21DQVE9PQo=",
-      "url": "https://api.github.com/repos/Tvaro-Labs/tvaro-iptv-releases/releases/assets/763286335"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYnhseGVGS2k5aTBCTERhWUVoSVlOWGp0azFUejhoTk1DRDdwVHduMVV4bTBubjJ1RHMrOG0wZG1VRmd6ZVBZWGRqd200ZTI1dXVXNkdYTmV3SE14VHZ0SXZNWWRlMmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjg2NTIzCWZpbGU6VHZhcm8gVFYgSW5zdGFsbGVyXzAuMS4yN19hbWQ2NC5kZWIJdmVyc2lvbjowLjEuMjcKUWNPalBqVkZraTkxRzVKcE1DelJDTlZqMXVNWVNRcFllWXA5QzdGRjEyanNoWlR2UFk0RXJUeERNS3E0bHdMZnQzY2dxTnBOVVg3TklzLy9ZV1dHRGc9PQo=",
+      "url": "https://api.github.com/repos/Tvaro-Labs/tvaro-iptv-releases/releases/assets/776551157"
     },
     "linux-x86_64-rpm": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYnhseGVGS2k5aTYyTDNRN0Y3QXF6bXZENWFMWStYUmhZQmVlS1FHODVWSnZobUhRcGQyOU4zMVh2UWtaY05nWjVsQ0RPR0dTNVBUVnNFOHM5YkdUZ2FJMW9zcXY5TlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDAzMDkxCWZpbGU6VHZhcm8gVFYgSW5zdGFsbGVyLTAuMS4yNi0xLng4Nl82NC5ycG0JdmVyc2lvbjowLjEuMjYKMWFad3RSeXpyVXVNY2V2eEZrRzF6WUtZR1I1ZTlJMFZ2UjFPZG55WWd5QmprcURwUlR2K0pzQ0VIL2tSdDMyRVkyNVE5NTk5K1NXV0d4RmFoZVhuRHc9PQo=",
-      "url": "https://api.github.com/repos/Tvaro-Labs/tvaro-iptv-releases/releases/assets/763286683"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYnhseGVGS2k5aS8yUTFBY0NFZ3pTMjlNejNJbFR3eVJUd1h2RStaOEErSmRHaXR3bTVBQnRzRkU0VDRGQ1hUNjhrM1hpZ2VWa0xVYVYxSkJhREJuMHRlY1RYakdFUlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDAyMTIyCWZpbGU6VHZhcm8gVFYgSW5zdGFsbGVyLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjYKS2s4LzJJczlsQ1VWMXZ5c0ZKV0FGbWdGZC91WGwrbWxTc25QUW5VSFE1T1dhTC80bFN1QkM5V0t5SHVQTGw3Vi80M21NNXl5cDVad29mM3N0NG9OQUE9PQo=",
-      "url": "https://api.github.com/repos/Tvaro-Labs/tvaro-iptv-releases/releases/assets/763287385"
-    },
-    "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYnhseGVGS2k5aS8yUTFBY0NFZ3pTMjlNejNJbFR3eVJUd1h2RStaOEErSmRHaXR3bTVBQnRzRkU0VDRGQ1hUNjhrM1hpZ2VWa0xVYVYxSkJhREJuMHRlY1RYakdFUlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDAyMTIyCWZpbGU6VHZhcm8gVFYgSW5zdGFsbGVyLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjYKS2s4LzJJczlsQ1VWMXZ5c0ZKV0FGbWdGZC91WGwrbWxTc25QUW5VSFE1T1dhTC80bFN1QkM5V0t5SHVQTGw3Vi80M21NNXl5cDVad29mM3N0NG9OQUE9PQo=",
-      "url": "https://api.github.com/repos/Tvaro-Labs/tvaro-iptv-releases/releases/assets/763287385"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYnhseGVGS2k5aStGRmhIb1hXbFhkZ3VZbnNxdlFyL0FLTTUxblEwM2FRS0Z5VFNNc3pyM1dTUWJSYVpmdzFUUHpQdzl3WktYQXNZSTNRVTl0UC9nZFo2dnN3TDRBQlFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjg2NTIzCWZpbGU6VHZhcm8gVFYgSW5zdGFsbGVyLTAuMS4yNy0xLng4Nl82NC5ycG0JdmVyc2lvbjowLjEuMjcKV29EMnVXTDgzM0VjazNOSGtZK3lJSkVUWW5tRXZFRzdMU0hmZWpRbEF1VFVvdW4vcnluUHd0WjBtVys0dWgxNFVKL2R6L2h4YnExMHFLdDdLUVhCQ0E9PQo=",
+      "url": "https://api.github.com/repos/Tvaro-Labs/tvaro-iptv-releases/releases/assets/776551488"
     }
   }
 }
