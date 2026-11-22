@@ -61,7 +61,11 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.28 — TV Manager for Android — 2026-11-18
+## 0.1.29 — TV Manager for Android — 2026-11-22
+
+### Improved
+
+- Press and hold a TV to open a cleaner menu of actions
 
 ### Fixed
 
