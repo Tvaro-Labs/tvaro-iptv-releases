@@ -40,16 +40,12 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.47 — LG TV — 2026-11-21
-
-### New
-
-- Clearer messages when your connection or service is having trouble
+## 0.1.48 — LG TV — 2026-11-22
 
 ### Improved
 
-- Smoother browsing and a faster guide on older TVs
-- Holding a remote button now scrolls steadily
+- Faster start when your lists are already saved
+- More reliable on TVs with little storage space
 
 ### Fixed
 
