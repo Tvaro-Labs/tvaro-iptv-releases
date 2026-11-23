@@ -1,15 +1,13 @@
 # Tvaro IPTV Player changelog
 
-## 0.1.42 — Android — 2026-11-21
-
-### New
-
-- Clearer messages when your connection or service is having trouble
+## 0.1.43 — Android — 2026-11-23
 
 ### Improved
 
-- Fire TV: the app tile now shows the full Tvaro logo
-- A cleaner, more consistent look for the player controls
+- Faster search, even with very large playlists
+- A cleaner look for menus and sheets
+- Text stays at a comfortable size on every phone
+- Easier to type your server address
 
 ### Fixed
 
