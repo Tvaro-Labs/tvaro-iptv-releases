@@ -47,11 +47,12 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.28 — TV Manager — 2026-11-23
+## 0.1.29 — TV Manager — 2026-11-23
 
-### Fixed
+### Improved
 
-- Bug fixes and performance improvements
+- Settings sections now sit in a sidebar, with Help and About on their own
+- A cleaner look for dialogs
 
 ## 0.1.31 — TV Manager for Android — 2026-11-23
 
