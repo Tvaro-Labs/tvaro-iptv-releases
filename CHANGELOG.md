@@ -53,13 +53,10 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.30 — TV Manager for Android — 2026-11-23
+## 0.1.31 — TV Manager for Android — 2026-11-23
 
 ### Improved
 
-- Text follows your phone's text size
-- A cleaner look for TV options
-
-### Fixed
-
-- Bug fixes and performance improvements
+- Text stays at a comfortable size on every phone
+- Help and About now have their own sections in Settings
+- A cleaner look for dialogs and menus
