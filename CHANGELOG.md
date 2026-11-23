@@ -13,11 +13,12 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.46 — Desktop — 2026-11-21
+## 0.1.47 — Desktop — 2026-11-23
 
 ### Improved
 
-- Holding an arrow key now scrolls movies, series and channels smoothly
+- Faster search, even with very large playlists
+- Uses less memory with very large playlists
 
 ### Fixed
 
