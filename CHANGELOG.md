@@ -34,11 +34,11 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.50 — LG TV — 2026-11-24
+## 0.1.51 — LG TV — 2026-11-24
 
 ### Improved
 
-- Smoother typing in search
+- Your library is ready as soon as you finish setup
 
 ### Fixed
 
