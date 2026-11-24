@@ -24,17 +24,14 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.49 — Samsung TV — 2026-11-23
+## 0.1.50 — Samsung TV — 2026-11-24
 
 ### Improved
 
-- Home appears instantly when you open the app
-- Faster search, even with very large playlists
-- Easier to type your server address
+- Smoother typing in search
 
 ### Fixed
 
-- A clear message when a video's sound format isn't supported
 - Bug fixes and performance improvements
 
 ## 0.1.50 — LG TV — 2026-11-24
