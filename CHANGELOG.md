@@ -11,12 +11,12 @@
 
 - Bug fixes and performance improvements
 
-## 0.1.47 — Desktop — 2026-11-23
+## 0.1.48 — Desktop — 2026-11-24
 
 ### Improved
 
-- Faster search, even with very large playlists
-- Uses less memory with very large playlists
+- Your library is ready as soon as you finish setup
+- Smoother search
 
 ### Fixed
 
