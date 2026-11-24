@@ -1,13 +1,11 @@
 # Tvaro IPTV Player changelog
 
-## 0.1.43 — Android — 2026-11-23
+## 0.1.44 — Android — 2026-11-24
 
 ### Improved
 
-- Faster search, even with very large playlists
-- A cleaner look for menus and sheets
-- Text stays at a comfortable size on every phone
-- Easier to type your server address
+- Your library is ready as soon as you finish setup
+- Smoother search
 
 ### Fixed
 
