@@ -1,11 +1,19 @@
 # Tvaro IPTV Player changelog
 
-## 0.1.44 — Android — 2026-11-24
+## 0.1.49 — Android — 2026-11-28
+
+### New
+
+- A fresh new look
+- Favorites are now My List
+- A redesigned phone remote with what's playing, a channel list and easier controls
 
 ### Improved
 
-- Your library is ready as soon as you finish setup
-- Smoother search
+- Home opens instantly with your saved library
+- Steadier loading of channels, movies and series
+- The phone remote connects faster and shows movie posters
+- A smaller, faster app
 
 ### Fixed
 
